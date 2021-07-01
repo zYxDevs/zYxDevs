@@ -1,7 +1,7 @@
 # Yoga Pranata
 
 - 👋 Hi, I’m @zYxDevs
-- 👀 I’m interested in 
+- 👀 I’m interested in Woman, Of Course :)
 - 🌱 I’m currently learning Python, Shell, C++, Html, and Java.
 - 📫 How to reach me...
 - $ Telegram  [Yoga Pranata](https://t.me/Yoga_CIC)
