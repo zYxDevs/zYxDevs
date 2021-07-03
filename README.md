@@ -27,7 +27,8 @@
 ### More Contact
 <p align="center">
    <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/zYxDevs"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
+   <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://image.flaticon.com/icons/png/512/3955/3955163.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://zYxDevs.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
 </p>
 
 ### You Can Donation Here
