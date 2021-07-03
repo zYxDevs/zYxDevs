@@ -1,14 +1,22 @@
-# Yoga Pranata
+![zYxDevs github stats](https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png)
 
-- 👋 Hi, I’m @zYxDevs
-- 👀 I’m interested in Woman, Of Course :)
-- 🌱 I’m currently learning Python, Shell, C++, Html, and Java.
-- 📫 How to reach me...
-- $ Telegram  [Yoga Pranata](https://t.me/Yoga_CIC)
-- $ Instagram [Yoga Pranata](https://instagram.com/itzme.yoga.id)
-- $ Facebook  [Yoga Pranata](https://facebook.com/yoga.cic)
+<center>
+<a href="https://fb.me/yoga.xvip"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+ &nbsp;&nbsp; 
+<a href="https://pinterest.com/YogaPranata"><img src="https://image.flaticon.com/icons/svg/174/174863.svg" alt="alt text" width="20" height="20"></a>
 
-<!---
-zYxDevs/zYxDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+___
+
+**About Me**
+
+- Name   : Yoga Pranata
+- Age    : 18 Years
+- Skills : Python , PHP , Javascript , Shell , C++ , Html
+
+**I Love Indonesia**
+
+___
+**Stats**
+![zYxDevs github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
