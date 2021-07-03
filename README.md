@@ -24,7 +24,6 @@
 <p align="center">
    <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/zYxDevs"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
-   <a href="https://discord.com/users/YogaGMNG#1743"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt=""></a> &nbsp; &nbsp;
 </p>
 
 **You Can Donation Here**
