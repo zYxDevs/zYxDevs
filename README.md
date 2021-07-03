@@ -56,5 +56,5 @@
 <details>
     <summary><b>💸 Donate Link</b></summary><br/>
    <a href="https://paypal.me/YogaPranataDMK"><img src="https://image.flaticon.com/icons/png/512/888/888870.png" width="50px" alt="donation"></a> &nbsp; &nbsp;
-   <a href="https://ko-fi.com/yogapranata"><<img src="https://image.flaticon.com/icons/png/512/888/888870.png" width="50px" alt="donation"></a>
+   <a href="https://ko-fi.com/yogapranata"><img src="https://image.flaticon.com/icons/png/512/3071/3071581.png" width="50px" alt="donation"></a>
 </details>
