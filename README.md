@@ -16,15 +16,18 @@
 - Skills : Python , PHP , Javascript , Shell , C++ , and Html.
 
 
-### ※ My Stats ※
+<details>
+    <summary>&#127942 <b>My Stats</b></summary><br/>
 
 ![zYxDevs github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</details>
 
 
-### ♛ Github Trophy ♛
+<details>
+    <summary>&#127942 <b>Github Trophy</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zYxDevs)
-
+</details>
 
 ### ☎ More Contact ☎
 <p align="center">
