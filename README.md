@@ -29,7 +29,7 @@
 
 **You Can Donation Here**
 <p align="center">
-   <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://paypal.me/YogaPranataDMK"><img src="https://image.flaticon.com/icons/png/512/888/888870.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://saweria.co/YogaPranataDMK"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://trakteer.id/users/yogapranata"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt=""></a> &nbsp; &nbsp;
 </p>
