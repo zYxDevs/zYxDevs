@@ -2,16 +2,25 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views)
 
-<center>
+<p>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+
+<details>
+    <summary>&#127942 <b>Get Me On</b></summary><br/>
 <a href="https://fb.me/yoga.xvip"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="facebook" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" width="20" height="20"></a>
  &nbsp;&nbsp; 
 <a href="https://t.me/Yoga_CIC"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://image.flaticon.com/icons/png/512/466/466963.png" alt="twitter" width="20" height="20"></a>
 <br><br>
+</details>
+
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
-### ♨ About Me ♨
+### About Me
 
 - Name   : Yoga Pranata
 - Age    : 18 y.o
