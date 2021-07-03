@@ -9,29 +9,37 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
-### About Me
+### ♨ About Me ♨
 
 - Name   : Yoga Pranata
 - Age    : 18 y.o
 - Skills : Python , PHP , Javascript , Shell , C++ , and Html.
 
 
-### My Stats
+### ※ My Stats ※
 
 ![zYxDevs github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-### Github Trophy
+
+### ♛ Github Trophy ♛
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zYxDevs)
 
-### More Contact
+
+### ☎ More Contact ☎
 <p align="center">
    <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://image.flaticon.com/icons/png/512/3955/3955163.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+</p>
+
+
+### ▩ My Websites ▩
+<p align="center">
    <a href="https://zYxDevs.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
 </p>
 
-### You Can Donation Here
+
+### ☆ Donate Link ☆
 <p align="center">
    <a href="https://paypal.me/YogaPranataDMK"><img src="https://image.flaticon.com/icons/png/512/888/888870.png" width="50px" alt="donation"></a>
 </p>
