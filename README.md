@@ -3,15 +3,13 @@
 <center>
 <a href="https://fb.me/yoga.xvip"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://t.me/Yoga_CIC"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://wa.me/6282283936898"><img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" alt="alt text" width="20" height="20"></a>
-
-___
+<a href="https://t.me/Yoga_CIC"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://image.flaticon.com/icons/png/512/466/466963.png" alt="alt text" width="20" height="20"></a>
 
 **About Me**
 
 - Name   : Yoga Pranata
-- Age    : 18 Years
-- Skills : Python , PHP , Javascript , Shell , C++ , Html
+- Age    : 18 y.o
+- Skills : Python , PHP , Javascript , Shell , C++ , and Html.
 
 **I Love Indonesia**
 
