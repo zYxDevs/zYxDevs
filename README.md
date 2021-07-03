@@ -21,10 +21,9 @@
 </p>
 
 ### About Me
-
-- Name   : Yoga Pranata
-- Age    : 18 y.o
-- Skills : Python , PHP , Javascript , Shell , C++ , and Html.
+- **Name   : Yoga Pranata Damanik**
+- **Age    : 18 years old**
+- **Skills : Python , PHP , Javascript , Shell , C++ , and Html.**
 
 
 <details>
