@@ -28,7 +28,8 @@
 ![Powershell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
 
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
