@@ -23,13 +23,24 @@
 ### About Me
 - **Name   : Yoga Pranata Damanik**
 - **Age    : 18 years old**
-- **Skills :** ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php) 
-![Powershell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
+
+##### Languages I Use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Powershell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+
+##### Some of Technology I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
 
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
