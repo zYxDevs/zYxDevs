@@ -23,8 +23,8 @@
 ### About Me
 - **Name   : Yoga Pranata Damanik**
 - **Age    : 18 years old**
-- **Skills : Python , PHP , Javascript , Shell , C++ , and Html.**
-
+- **Skills :** [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
+[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net) [![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell) [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
 
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
