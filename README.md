@@ -54,7 +54,7 @@
 <details>
     <summary>&#127942 <b>Github Trophy</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=darkhub)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=darkhub&row=2&column=3)
 </details>
 
 
