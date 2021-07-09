@@ -45,9 +45,9 @@
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt)](https://github.com/zYxDevs)
+[![github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry)](https://github.com/zYxDevs)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=cobalt&layout=compact)](https://github.com/Scroxy-X)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/Scroxy-X)
 </details>
 
 
