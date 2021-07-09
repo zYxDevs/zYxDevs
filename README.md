@@ -47,7 +47,9 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry)](https://github.com/zYxDevs)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/Scroxy-X)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/zYxDevs)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry)](https://github.com/zYxDevs/TgBots)
 </details>
 
 
