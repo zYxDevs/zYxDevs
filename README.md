@@ -9,6 +9,7 @@
 <p>
     <img src="https://img.shields.io/badge/MySQL-white?&logo=MySQL" />
     <img src="https://img.shields.io/badge/MariaDB-black?&logo=MariaDB" />
+</br>
     <img src="https://img.shields.io/badge/PostgreSQL-white?&logo=Postgresql" />
     <img src="https://img.shields.io/badge/Redis-black?&logo=Redis" />
 </p>
