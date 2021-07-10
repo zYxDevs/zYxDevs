@@ -22,6 +22,7 @@
 
 ```
 About Me = [
+
     "I'm student with noob skills",
     "I like anime and never missed ongoing anime every season",
     "Like Games but not play everyday".
@@ -33,6 +34,7 @@ About Me = [
     "Life is once",
     "Die is once",
     "Make ur self be happy, in that one chance".
+
 ]
 ```
 
