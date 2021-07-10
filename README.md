@@ -20,9 +20,21 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
-### About Me
-- **Name   : Yoga Pranata Damanik**
-- **Age    : 18 years old**
+```
+About Me = [
+    "I'm student with noob skills",
+    "I like anime and never missed ongoing anime every season",
+    "Like Games but not play everyday".
+
+    "My name's Yoga Pranata",
+    "18 y.o",
+    "I Love Indonesia".
+
+    "Life is once",
+    "Die is once",
+    "Make ur self be happy, in that one chance".
+]
+```
 
 ##### Languages I Use
 
