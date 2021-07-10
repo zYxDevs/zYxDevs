@@ -10,9 +10,9 @@
 
 <details>
     <summary><b>💻 Get Me On</b></summary><br/>
-<a href="https://fb.me/yoga.xvip"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="facebook" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" width="20" height="20"></a>
+<a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174855.svg" alt="instagram" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://t.me/Yoga_CIC"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://image.flaticon.com/icons/png/512/466/466963.png" alt="twitter" width="20" height="20"></a>
+<a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"></a>
 <br><br>
 </details>
 
