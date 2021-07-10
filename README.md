@@ -76,8 +76,8 @@ About Me = [
 
 <details>
     <summary><b>📨 More Contact</b></summary><br/>
-   <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://image.flaticon.com/icons/png/512/3955/3955163.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/3955163.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
 </details>
 
 
@@ -89,6 +89,6 @@ About Me = [
 
 <details>
     <summary><b>💸 Donate Link</b></summary><br/>
-   <a href="https://paypal.me/YogaPranataDMK"><img src="https://image.flaticon.com/icons/png/512/888/888870.png" width="50px" alt="donation"></a> &nbsp; &nbsp;
-   <a href="https://ko-fi.com/yogapranata"><img src="https://image.flaticon.com/icons/png/512/1017/1017087.png" width="50px" alt="donation"></a>
+   <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png" width="50px" alt="donation"></a> &nbsp; &nbsp;
+   <a href="https://ko-fi.com/yogapranata"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png" width="50px" alt="donation"></a>
 </details>
