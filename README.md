@@ -5,8 +5,15 @@
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
+<p>
+    <img src="https://img.shields.io/badge/MySQL-white?&logo=MySQL" />
+    <img src="https://img.shields.io/badge/MariaDB-black?&logo=MariaDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-white?&logo=Postgresql" />
+    <img src="https://img.shields.io/badge/Redis-black?&logo=Redis" />
+</p>
+
+##
 
 <details>
     <summary><b>💻 Get Me On</b></summary><br/>
@@ -17,6 +24,8 @@
 <a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.5" height="20.5"></a>
 <br><br>
 </details>
+
+##
 
 <p align="center">
   <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d654a674233794d4d774961486d4b44347a2f67697068792e676966.gif" width="30%">
@@ -40,6 +49,7 @@ About Me = [
 ]
 ```
 
+##
 ##### Languages I Use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -49,15 +59,15 @@ About Me = [
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-
+##
 ##### Some of Technology I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
-
+##
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
 
@@ -68,28 +78,28 @@ About Me = [
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry)](https://github.com/zYxDevs/TgBots)
 </details>
 
-
+##
 <details>
     <summary>&#127942 <b>Github Trophy</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=darkhub&row=2&column=3)
 </details>
 
-
+##
 <details>
     <summary><b>📨 More Contact</b></summary><br/>
    <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/3955163.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
 </details>
 
-
+##
 <details>
     <summary><b>🌐 My Websites</b></summary><br/>
-   <a href="https://zYxDevs.github.io"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="20" alt="github"></a> &nbsp; &nbsp;
-   <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="20" alt="cyber indonesia"></a> &nbsp; &nbsp;
+   <a href="https://zYxDevs.github.io"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="github"></a> &nbsp; &nbsp;
+   <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="30" alt="cyber indonesia"></a> &nbsp; &nbsp;
 </details>
 
-
+##
 <details>
     <summary><b>💸 Donate Link</b></summary><br/>
    <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png" width="50px" alt="donation"></a> &nbsp; &nbsp;
