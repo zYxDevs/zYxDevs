@@ -13,6 +13,8 @@
 <a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174855.svg" alt="instagram" width="20" height="20"></a>
  &nbsp;&nbsp; 
 <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"></a>
+ &nbsp;&nbsp; 
+<a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="21" height="21"></a>
 <br><br>
 </details>
 
@@ -83,7 +85,7 @@ About Me = [
 
 <details>
     <summary><b>🌐 My Websites</b></summary><br/>
-   <a href="https://zYxDevs.github.io"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
+   <a href="https://zYxDevs.github.io"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="20" alt="github"></a> &nbsp; &nbsp;
 </details>
 
 
