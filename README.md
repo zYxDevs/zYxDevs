@@ -1,6 +1,6 @@
 ![zYxDevs github stats](https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views) <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" />
 
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
