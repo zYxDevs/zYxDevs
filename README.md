@@ -83,7 +83,7 @@ About Me = [
 
 <details>
     <summary><b>🌐 My Websites</b></summary><br/>
-   <a href="https://zYxDevs.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
+   <a href="https://zYxDevs.github.io"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
 </details>
 
 
