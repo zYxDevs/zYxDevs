@@ -1,18 +1,8 @@
-![zYxDevs github stats](https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png)
+<p align="center">
+  <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png"></a>
+    </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views) <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" />
-
-<p>
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-</p>
-<p>
-    <img src="https://img.shields.io/badge/MySQL-white?&logo=MySQL" />
-    <img src="https://img.shields.io/badge/MariaDB-black?&logo=MariaDB" />
-</br>
-    <img src="https://img.shields.io/badge/PostgreSQL-white?&logo=Postgresql" />
-    <img src="https://img.shields.io/badge/Redis-black?&logo=Redis" />
-</p>
 
 ##
 
@@ -58,9 +48,18 @@ print("See you again👋")
 ##### Some of Technology I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
+![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+
+![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
+![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB)
 
 ##
 <details>
