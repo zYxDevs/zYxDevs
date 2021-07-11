@@ -51,10 +51,12 @@ print("See you again👋")
 ![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-222222?style=flat&logo=netlify&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?&logo=Ubuntu)
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
