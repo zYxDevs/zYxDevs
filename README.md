@@ -47,10 +47,11 @@ print("See you again👋")
 ##
 ##### Some of Technology I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
@@ -59,7 +60,7 @@ print("See you again👋")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
-![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB)
+![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 
 ##
 <details>
