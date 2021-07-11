@@ -32,22 +32,16 @@
   <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d654a674233794d4d774961486d4b44347a2f67697068792e676966.gif" width="30%">
 </p>
 
-```
+```python
 About Me = [
 
-    "I'm student with noob skills",
-    "I like anime and never missed ongoing anime every season",
-    "Like Games but not play everyday".
-
-    "My name's Yoga Pranata",
-    "18 y.o",
-    "I Love Indonesia".
-
-    "Life is once",
-    "Die is once",
-    "Make ur self be happy, in that one chance".
+  Name  = "Yoga Pranata Damanik" #NoobCoders
+  Age   = "18 y.o" #Hell Yeah
+  Hobby = "Play Games , Watching Anime" #Whats Wrong With That
 
 ]
+
+print("See you again👋")
 ```
 
 ##
