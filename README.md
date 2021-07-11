@@ -4,8 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views) <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" />
 
-##
-
 <details>
     <summary><b>💻 Get Me On</b></summary><br/>
 <a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174855.svg" alt="instagram" width="20" height="20"></a>
