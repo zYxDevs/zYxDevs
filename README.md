@@ -56,7 +56,7 @@ print("See you again👋")
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?&logo=Ubuntu)
+![Debian](https://img.shields.io/badge/OS-Debian-blue?&logo=Debian)
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
