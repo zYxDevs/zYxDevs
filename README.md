@@ -100,6 +100,7 @@ print("See you again👋")
     <summary><b>🌐 My Websites</b></summary><br/>
    <a href="https://zYxDevs.github.io"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="github"></a> &nbsp; &nbsp;
    <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="30" alt="cyber indonesia"></a> &nbsp; &nbsp;
+   <a href="https://yoga-project.vercel.app/"><img src="https://github.com/zYxDevs/zYxDevs.github.io/blob/main/img/favicon.png" width="30" alt="yoga pranata"></a> &nbsp; &nbsp;
 </details>
 
 ##
