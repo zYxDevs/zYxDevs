@@ -18,10 +18,6 @@
 
 ##
 
-<p align="center">
-  <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/hello-world.gif" width="40%"></a>
-</p>
-
 ```python
 About Me = [
 
