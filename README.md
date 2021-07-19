@@ -13,7 +13,6 @@
 <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"></a>
  &nbsp;&nbsp; 
 <a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.5" height="20.5"></a>
-<br><br>
 </details>
 
 ##
@@ -75,6 +74,9 @@ print("See you again👋")
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/zYxDevs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry)](https://github.com/zYxDevs/TgBots)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zYxDevs&theme=chartreuse-dark&hide_border=True">
+
 </details>
 
 ##
