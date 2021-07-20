@@ -30,7 +30,7 @@ print("See you again👋")
 ```
 
 ##
-##### Languages I Use
+##### Languages I Known
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
@@ -51,13 +51,6 @@ print("See you again👋")
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
-![Debian](https://img.shields.io/badge/OS-Debian-blue?&logo=Debian)
-![Fedora](https://img.shields.io/badge/OS-Fedora-blue?&logo=Fedora)
-![CentOS](https://img.shields.io/badge/OS-CentOS-blue?&logo=CentOS)
-![Lubuntu](https://img.shields.io/badge/OS-Lubuntu-blue?&logo=Lubuntu)
-![ZorinOS](https://img.shields.io/badge/OS-Zorin-blue?&logo=Zorin)
-![Deepin](https://img.shields.io/badge/OS-Deepin-blue?&logo=Deepin)
-![Debian](https://img.shields.io/badge/OS-Linux%20Mint-blue?&logo=Linux-Mint)
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
