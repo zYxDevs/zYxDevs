@@ -24,7 +24,7 @@ About Me = [
   Age   = "18 y.o" #Hell Yeah
   Hobby = "Play Games , Watching Anime" #Whats Wrong With That
 
-  Quote = "No matter who you are, the matter is what you are"
+  Quote = "No matter who you are, the matter is what you are" #Shit😂😂
 
 ]
 
