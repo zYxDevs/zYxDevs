@@ -20,15 +20,15 @@
 ```python
 About Me = [
 
-  Name  = "Yoga Pranata Damanik" #NoobCoders
+  Name  = "Yoga Pranata Damanik" #NoobCoders😑
   Age   = "18 y.o" #Hell Yeah
-  Hobby = "Play Games , Watching Anime" #Whats Wrong With That
+  Hobby = "Play Games , Watching Anime" #Whats Wrong With That👊
 
-  Quote = "No matter who you are, the matter is what you are" #Shit😂😂
+  Quote = "No matter who you are, the matter is what you are" #Shit😂
 
 ]
 
-print("See you again👋")
+print('See you again👋')
 ```
 
 ##
