@@ -18,7 +18,10 @@
 ##
 
 ```python
-About Me = [
+import os
+from bio import AboutMe as About
+
+About = (
 
   Name  = "Yoga Pranata Damanik" #NoobCoders😑
   Age   = "18 y.o" #Hell Yeah😎
@@ -26,9 +29,11 @@ About Me = [
 
   Quote = "No matter who you are, the matter is what you are" #Shit😂
 
-]
+)
 
 print('See you again👋')
+
+os.delete(About)
 ```
 
 ##
