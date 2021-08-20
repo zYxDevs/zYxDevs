@@ -33,7 +33,7 @@ About = (
 
 print('See you again👋')
 
-os.delete(About)
+os.remove(About)
 ```
 
 ##
