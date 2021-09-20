@@ -1,6 +1,10 @@
 <h1 align="center">Hi! 👋 I'm zYxDevs</h1>
 
 <p align="center">
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed.">
+</p>
+
+<p align="center">
   <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png"></a>
     </p>
 
@@ -16,10 +20,6 @@
 </details>
 
 ##
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=red&width=420&lines=A+Noob+Developer+From+Indonesia%E2%9C%8C%EF%B8%8F;Python%2C+Html%2C+Css%2C+Javascript+%E2%9D%A4%EF%B8%8F;Thanks+for+visiting+here+dude+👋;Loading+.+.+.+.+.+.+.+.+Lmao.+.+.">
-</p>
 
 ```python
 import os
@@ -73,14 +73,10 @@ os.remove(About)
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry)](https://github.com/zYxDevs)
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/zYxDevs)
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry)](https://github.com/zYxDevs)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/zYxDevs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry)](https://github.com/zYxDevs/TgBots)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zYxDevs&theme=chartreuse-dark&hide_border=True">
-
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zYxDevs&theme=chartreuse-dark&hide_border=True")](https://github.com/zYxDevs)
 </details>
 
 ##
