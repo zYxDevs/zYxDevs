@@ -6,9 +6,11 @@
 
 <p align="center">
   <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"></a>
-    </p>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views) <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+</p>
 
 <details>
     <summary><b>💻 Get Me On</b></summary><br/>
