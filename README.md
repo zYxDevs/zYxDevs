@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋 I'm zYxDevs</h1>
 
 <p align="center">
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed.">
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Apa Kontol?">
 </p>
 
 <p align="center">
-  <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png"></a>
+  <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"></a>
     </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views) <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" />
@@ -16,7 +16,7 @@
  &nbsp;&nbsp; 
 <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.5" height="20.5"></a>
+<a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.5" height="20.5" alt="discord"></a>
 </details>
 
 ##
@@ -89,21 +89,21 @@ os.remove(About)
 ##
 <details>
     <summary><b>📨 More Contact</b></summary><br/>
-   <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/3955163.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+   <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/3955163.png" width="30px" alt="Ymail"></a> &nbsp; &nbsp;
 </details>
 
 ##
 <details>
     <summary><b>🌐 My Websites</b></summary><br/>
-   <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="github"></a> &nbsp; &nbsp;
-   <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="30" alt="cyber indonesia"></a> &nbsp; &nbsp;
-   <a href="https://yoga-project.vercel.app/"><img src="https://github.com/zYxDevs/zYxDevs.github.io/blob/main/img/favicon.png" width="30" alt="yoga pranata"></a> &nbsp; &nbsp;
+   <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io"></a> &nbsp; &nbsp;
+   <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="30" alt="Cyber Indonesia"></a> &nbsp; &nbsp;
+   <a href="https://yoga-project.vercel.app/"><img src="https://github.com/zYxDevs/zYxDevs.github.io/blob/main/img/favicon.png" width="30" alt="Yoga Pranata"></a> &nbsp; &nbsp;
 </details>
 
 ##
 <details>
     <summary><b>💸 Donate Link</b></summary><br/>
-   <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png" width="50px" alt="donation"></a> &nbsp; &nbsp;
-   <a href="https://ko-fi.com/yogapranata"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png" width="50px" alt="donation"></a>
+   <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png" width="50px" alt="Paypal"></a> &nbsp; &nbsp;
+   <a href="https://ko-fi.com/yogapranata"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png" width="50px" alt="Ko-fi"></a>
 </details>
