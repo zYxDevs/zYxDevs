@@ -17,6 +17,10 @@
 
 ##
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=red&width=420&lines=A+Noob+Developer+From+Indonesia%E2%9C%8C%EF%B8%8F;Python%2C+Html%2C+Css%2C+Javascript+%E2%9D%A4%EF%B8%8F;Thanks+for+visiting+here+dude;Loading+.+.+.+.+.+.+.+.+Lmao.+.+.">
+</p>
+
 ```python
 import os
 from bio import AboutMe as About
