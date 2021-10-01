@@ -75,18 +75,12 @@ os.remove(About)
 <details>
     <summary><b>📝 My Stats</b></summary><br/>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry)](https://github.com/zYxDevs)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/zYxDevs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry)](https://github.com/zYxDevs/TgBots)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zYxDevs&theme=chartreuse-dark&hide_border=True")](https://github.com/zYxDevs)
+<a href="https://github.com/zYxDevs"><img alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry" /></a>
+<a href="https://t.me/Yoga_CIC"><img alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=juicyfresh&row=2&column=3" /></a>
+<a href="https://github.com/zYxDevs"><img alt="zYxDevs Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact" /></a>
+<a href="https://github.com/zYxDevs"><img alt="zYxDevs Longest Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zYxDevs&theme=chartreuse-dark&hide_border=True" /></a>
+<a href="https://github.com/zYxDevs/TgBots"><img alt="zYxDevs/TgBots" src="https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry" /></a>
 <a href="https://t.me/zYxDx"><img alt="zYxDevs Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zYxDevs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
-
-##
-<details>
-    <summary>&#127942 <b>Github Trophy</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=juicyfresh&row=2&column=3)
 </details>
 
 ##
