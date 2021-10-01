@@ -79,6 +79,7 @@ os.remove(About)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact)](https://github.com/zYxDevs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zYxDevs&repo=TgBots&theme=blueberry)](https://github.com/zYxDevs/TgBots)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zYxDevs&theme=chartreuse-dark&hide_border=True")](https://github.com/zYxDevs)
+<a href="https://t.me/zYxDx"><img alt="zYxDevs Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zYxDevs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 ##
