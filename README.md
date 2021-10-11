@@ -27,7 +27,7 @@
 import os
 from bio import AboutMe as About
 
-About = (
+About = [
 
   Name  = "Yoga Pranata Damanik" #NoobCoders😑
   Age   = "18 y.o" #Hell Yeah😎
@@ -35,7 +35,7 @@ About = (
 
   Quote = "No matter who you are, the matter is what you are" #Shit😂
 
-)
+]
 
 print('See you again👋')
 
