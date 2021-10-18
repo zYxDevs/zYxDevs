@@ -43,7 +43,7 @@ os.remove(About)
 ```
 
 ##
-##### Languages I Known
+##### Languages i known
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
@@ -53,7 +53,7 @@ os.remove(About)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ##
-##### Some of Technology I have worked with
+##### Some of Technology that i have worked with
 
 ![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
@@ -72,8 +72,8 @@ os.remove(About)
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 
 ##
-<p align="center"><b>📝 My Stats</b><br/>
-
+<details>
+    <summary><b>📝 Github Stats</b></summary><br/>
 <a href="https://github.com/zYxDevs"><img alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry" /></a>
 <a href="https://t.me/Yoga_CIC"><img alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=juicyfresh&row=2&column=3" /></a>
 <a href="https://github.com/zYxDevs"><img alt="zYxDevs Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&show_icons=true&theme=blueberry&layout=compact" /></a>
@@ -81,20 +81,20 @@ os.remove(About)
 <a href="https://github.com/IDN-C-X/ZeldrisRobot"><img alt="IDN-C-X/ZeldrisRobot" src="https://github-readme-stats.vercel.app/api/pin/?username=IDN-C-X&repo=ZeldrisRobot&theme=blueberry" /></a>
 <a href="https://t.me/zYxDx"><img alt="zYxDevs Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zYxDevs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
+</details>
 
 ##
 <details>
-    <summary><b>📨 More Contact</b></summary><br/>
+    <summary><b>📨 Emails</b></summary><br/>
    <a href="mailto:ahmadzaylani001@gmail.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/gmail.svg" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
    <a href="mailto:ahmadzaylani001@yahoo.com"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/3955163.png" width="30px" alt="Ymail"></a> &nbsp; &nbsp;
 </details>
 
 ##
 <details>
-    <summary><b>🌐 My Websites</b></summary><br/>
+    <summary><b>🌐 Websites</b></summary><br/>
    <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io"></a> &nbsp; &nbsp;
    <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="30" alt="Cyber Indonesia"></a> &nbsp; &nbsp;
-   <a href="https://yoga-project.vercel.app/"><img src="https://github.com/zYxDevs/zYxDevs.github.io/blob/main/img/favicon.png" width="30" alt="Yoga Pranata"></a> &nbsp; &nbsp;
 </details>
 
 ##
