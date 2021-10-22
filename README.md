@@ -76,7 +76,7 @@ os.remove(About)
     <summary><b>📝 Github Stats</b></summary><br/>
 <a href="https://github.com/zYxDevs"><img alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry" /></a>
 <a href="https://t.me/Yoga_CIC"><img alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=juicyfresh&row=1&column=6" /></a>
-<img alt="Github Stats" src="https://metrics.lecoq.io/zYxDevs?template=classic&languages=1&achievements=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed" />
+<a href="https://t.me/zYxDx"><img alt="Github Stats" src="https://metrics.lecoq.io/zYxDevs?template=classic&languages=1&achievements=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed" /></a>
 </p>
 </details>
 
@@ -96,7 +96,7 @@ os.remove(About)
 
 ##
 <details open>
-<summary><b>Visitor counter</b></summary>
+<summary><b>Cute visitor count</b></summary>
 
-![yoga](https://count.getloli.com/get/@yoga?theme=rule34)
+<a href="https://t.me/Yoga_CIC"><img alt="Cute Count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
 </details>
