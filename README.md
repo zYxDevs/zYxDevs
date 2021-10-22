@@ -75,7 +75,7 @@ os.remove(About)
 <details>
     <summary><b>📝 Github Stats</b></summary><br/>
 <a href="https://github.com/zYxDevs"><img alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=blueberry" /></a>
-<a href="https://t.me/Yoga_CIC"><img alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=juicyfresh&row=1&column=6" /></a>
+<a href="https://t.me/Yoga_CIC"><img alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=juicyfresh&row=1&column=7" /></a>
 <a href="https://t.me/zYxDx"><img alt="Github Stats" src="https://metrics.lecoq.io/zYxDevs?template=classic&languages=1&achievements=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed" /></a>
 </p>
 </details>
