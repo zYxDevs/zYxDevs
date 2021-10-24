@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
-<details open align="left">
+<details align="left">
     <summary><b>💻 Get Me On</b></summary><br/>
 <a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>
 &nbsp;&nbsp;
@@ -27,18 +27,18 @@
 <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
 </details>
 
-<details align="center">
+<details open align="center">
+    <summary><b>📝 Github Stats</b></summary><br/>
+<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt&count_private=true" /></a>
+<a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=1&column=7" /></a>
+</p>
+</details>
+
+<details align="left">
     <summary><b>💸 Donate Link</b></summary><br/>
 <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png"  width="20" height="20" alt="Paypal"></a>
 &nbsp; &nbsp;
 <a href="https://ko-fi.com/yogapranata"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"></a>
-</details>
-
-<details align="right">
-    <summary><b>📝 Github Stats</b></summary><br/>
-<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=nightowl&count_private=true" /></a>
-<a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=1&column=7" /></a>
-</p>
 </details>
 
 ###
