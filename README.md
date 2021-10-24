@@ -12,13 +12,33 @@
   <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
-<details>
+<details open align="left">
     <summary><b>💻 Get Me On</b></summary><br/>
-<a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/itzme.yoga.id"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174855.svg" alt="instagram" width="20" height="20"></a>
- &nbsp;&nbsp; 
-<a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://twitter.com/AccountYoga"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"></a>
- &nbsp;&nbsp; 
+<a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/itzme.yoga.id"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174855.svg" alt="instagram" width="20" height="20"></a>
+ &nbsp;&nbsp;
+<a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/AccountYoga"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"></a>
+&nbsp;&nbsp;
 <a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.5" height="20.5" alt="discord"></a>
+&nbsp;&nbsp;
+<a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
+</details>
+
+<details align="center">
+    <summary><b>💸 Donate Link</b></summary><br/>
+<a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png"  width="20" height="20" alt="Paypal"></a>
+&nbsp; &nbsp;
+<a href="https://ko-fi.com/yogapranata"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"></a>
+</details>
+
+<details align="right">
+    <summary><b>📝 Github Stats</b></summary><br/>
+<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=nightowl&count_private=true" /></a>
+<a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=1&column=7" /></a>
+</p>
 </details>
 
 ###
@@ -70,29 +90,6 @@ os.remove(About)
 ![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
-
-##
-<details>
-    <summary><b>📝 Github Stats</b></summary><br/>
-<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=dracula&count_private=true" /></a>
-<a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=1&column=7" /></a>
-<a href="https://t.me/zYxDx"><img align="center" alt="Github Stats" src="https://metrics.lecoq.io/zYxDevs?template=classic&languages=1&achievements=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed" /></a>
-</p>
-</details>
-
-##
-<details>
-    <summary><b>🌐 Websites</b></summary><br/>
-   <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io"></a> &nbsp; &nbsp;
-   <a href="https://bit.ly/3wBnqz0"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/site.svg" width="30" alt="Cyber Indonesia"></a> &nbsp; &nbsp;
-</details>
-
-##
-<details>
-    <summary><b>💸 Donate Link</b></summary><br/>
-   <a href="https://paypal.me/YogaPranataDMK"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png" width="50px" alt="Paypal"></a> &nbsp; &nbsp;
-   <a href="https://ko-fi.com/yogapranata"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png" width="50px" alt="Ko-fi"></a>
-</details>
 
 ##
 <details open>
