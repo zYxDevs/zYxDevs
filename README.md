@@ -44,22 +44,22 @@
 ###
 
 ```python
-import os
-from bio import AboutMe as About
+from github.zYxDevs.db import quote
 
-About = [
+class zYxDevs():
+    def __init__(self):
+        self.name = ['Yoga Pranata']
+        self.country = ['Indonesia']
+        self.language = ['Indonesia', 'English']
 
-  Name  = "Yoga Pranata Damanik" #NoobCoders😑
-  Age   = "18 y.o" #Hell Yeah😎
-  Hobby = "Play Games , Watching Anime" #Whats Wrong With That👊
-
-  Quote = "No matter who you are, the matter is what you are" #Shit😂
-
-]
+    def quotes(quote):
+        if quote == None:
+            quote.Quotes.add('No matter who you are, the matter is what you are.')
+            return quotes
+        else:
+            print(quote.Quotes)
 
 print('See you again👋')
-
-os.remove(About)
 ```
 
 ##
