@@ -53,7 +53,7 @@ class zYxDevs():
         self.language = ['Indonesia', 'English']
 
     def quotes(quote):
-        if quote == None:
+        if quote.Quotes == None:
             quote.Quotes.add('No matter who you are, the matter is what you are.')
             return quotes
         else:
