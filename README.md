@@ -63,7 +63,7 @@ print('See you again👋')
 ```
 
 ##
-##### Languages i known
+##### Languages that i use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
