@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm zYxDevs</h1>
 
 <p align="center">
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Apa Kontol?">
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Apa Kontol?"></a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 ###
 
 ```python
-from github.zYxDevs.db import quote
+from github.zYxDevs import quote
 
 class zYxDevs():
     def __init__(self):
