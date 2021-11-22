@@ -1,0 +1,57 @@
+# Github workflow to compile latex and deploy the pdf to an orphan branch.
+# Davide Gerosa (2021) https://github.com/dgerosa
+
+# Edit the DIR and FILE variables with the location of the latex file.
+# Place the yml file in a directory called .github/workflows
+
+# The latest compiled pdf is made available at e.g.
+# https://github.com/dgerosa/[repositoryname]/blob/build/[filename].pdf
+
+# You can also add a badge to your README:
+# [![compile_deploy_latex](https://github.com/dgerosa/[repositoryname]/actions/workflows/compile_deploy_latex.yml/badge.svg)](https://github.com/dgerosa/[repositoryname]/actions)
+
+# To compile multiple papers, duplicate the job called "paper" with different FILE/DIR names and add the "needs" line in the "deploy" job accordingly  
+
+name: compile_deploy_latex
+on: [push]
+jobs:
+  paper:
+    runs-on: ubuntu-latest
+    env:
+      # Edit here with the names of your latex file and directory (can use ".")
+      DIR: about
+      FILE: yoga
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install TeXlive
+        run: sudo apt-get install texlive texlive-publishers texlive-science latexmk cm-super
+      - name: LaTeX compile
+        working-directory: ${{ env.DIR }}
+        run: latexmk -pdf -bibtex ${{ env.FILE }}
+      - name: move
+        run: mkdir -p github_artifacts && mv ${{ env.DIR }}/${{ env.FILE }}.pdf ./github_artifacts/
+      - name: Upload pdf as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ env.FILE }}.pdf
+          path: ./github_artifacts
+  deploy:
+    # Edit here if compiling multiple papers
+    needs: [paper]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          path: github_artifacts
+      - name: move
+        run: mkdir -p github_deploy && mv github_artifacts/*/* github_deploy
+      - name: deploy on orphan branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./github_deploy
+          publish_branch: build
+          force_orphan: true
