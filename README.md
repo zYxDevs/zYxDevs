@@ -44,20 +44,16 @@
 ###
 
 ```python
-from github.zYxDevs import quote
+from github import zYxDevs
 
 class zYxDevs():
     def __init__(self):
         self.name = ['Yoga Pranata']
         self.country = ['Indonesia']
         self.language = ['Indonesia', 'English']
+        self.quote = ['No matter who you are, the matter is what you are']
 
-    def quotes(quote):
-        if quote.Quotes == None:
-            quote.Quotes.add('No matter who you are, the matter is what you are.')
-            return quotes
-        else:
-            print(quote.Quotes)
+    return zYxDevs
 
 print('See you again👋')
 ```
