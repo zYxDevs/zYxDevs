@@ -30,8 +30,8 @@
 <details open align="center">
     <summary><b>📝 Github Stats</b></summary><br/>
 <a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt&count_private=true" /></a>
-<a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=1&column=8" /></a>
-<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&layout=compact&langs_count=8&hide=python" /></a>
+<a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=2&column=4" /></a>
+<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&layout=compact&langs_count=6" /></a>
 </details>
 
 <details align="left">
