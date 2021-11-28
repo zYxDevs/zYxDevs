@@ -53,8 +53,6 @@ class zYxDevs():
         self.language = ['Indonesia', 'English']
         self.quote = ['No matter who you are, the matter is what you are']
 
-    return zYxDevs
-
 print('See you again👋')
 ```
 
