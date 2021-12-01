@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
-<details align="left">
+<details open align="left">
     <summary><b>💻 Get Me On</b></summary><br/>
 <a href="https://fb.me/yoga.xvip"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"></a>
 &nbsp;&nbsp;
@@ -27,7 +27,7 @@
 <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
 </details>
 
-<details open align="center">
+<details align="center">
     <summary><b>📝 Github Stats</b></summary><br/>
 <a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt&count_private=true" /></a><br>
 <a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=2&column=4" /></a><br>
