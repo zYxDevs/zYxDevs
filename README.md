@@ -46,14 +46,15 @@
 ```python
 from github import zYxDevs
 
-class zYxDevs():
+class Biograph():
     def __init__(self):
-        self.name = ['Yoga Pranata']
-        self.country = ['Indonesia']
-        self.language = ['Indonesia', 'English']
-        self.quote = ['No matter who you are, the matter is what you are']
+        self.name = {str(zYxDevs.fullName()), "Yoga Pranata Damanik"}
+        self.age = {int(zYxDevs.howOld()), 19}
+        self.country = {str(zYxDevs.countryName()), "Indonesia"}
+        self.language = {str(zYxDevs.currLang()), "English", "Indonesia"}
+        self.quote = {"No matter who you are, the matter is what you are."}
 
-print('See you again👋')
+print("See you again👋")
 ```
 
 ##
