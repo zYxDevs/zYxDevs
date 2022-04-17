@@ -24,6 +24,8 @@
 &nbsp;&nbsp;
 <a href="https://discordapp.com/users/659718688219332639"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.5" height="20.5" alt="discord"></a>
 &nbsp;&nbsp;
+<a href="https://www.otakufanshare.eu.org"><img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/site/favicon-32x32.png" width="20" alt="Anime sites" width="20" height="20"></a>
+&nbsp;&nbsp;
 <a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
 </details>
 
