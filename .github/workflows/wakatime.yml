@@ -15,4 +15,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_PROFILE_VIEWS: "False"
