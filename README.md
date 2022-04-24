@@ -89,14 +89,13 @@ print("See you again👋")
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 
 ##
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-##
 <details open>
 <summary><b>Cute visitor count</b></summary>
 <br>
 <a href="https://t.me/Yoga_CIC"><img alt="Cute Count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
 </details>
+
+## Just Little Stuff
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
