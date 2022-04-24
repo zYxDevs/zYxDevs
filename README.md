@@ -88,7 +88,9 @@ print("See you again👋")
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 
+##
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ##
