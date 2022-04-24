@@ -89,8 +89,8 @@ print("See you again👋")
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 
 ##
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ##
