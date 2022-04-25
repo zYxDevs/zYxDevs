@@ -95,6 +95,8 @@ print("See you again👋")
 <a href="https://t.me/Yoga_CIC"><img alt="Cute Count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
 </details>
 
+##
+[![zYxDevs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs)](https://github.com/zYxDevs)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
