@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm zYxDevs</h1>
 
 <p align="center">
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Apa Kontol?"></a>
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+HTML%2C+VBA%2C+JavaScript.;Love+Money+and+Life+is+Needed." alt="Apa Kontol?"></a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
     <summary><b>📝 Github Stats</b></summary><br/>
 <a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400" /></a><br>
 <a href="https://t.me/Yoga_CIC"><img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=2&column=4" /></a><br>
-<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&layout=compact&langs_count=6" /></a>
+<a href="https://github.com/zYxDevs"><img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&layout=compact&langs_count=6&hide=python" /></a>
 </details>
 
 <details align="left">
@@ -46,15 +46,13 @@
 ###
 
 ```python
-from github import zYxDevs
-
 class Biograph():
     def __init__(self):
-        self.name = {str(zYxDevs.fullName()), "Yoga Pranata Damanik"}
-        self.age = {int(zYxDevs.howOld()), 19}
-        self.country = {str(zYxDevs.countryName()), "Indonesia"}
-        self.language = {str(zYxDevs.currLang()), "English", "Indonesia"}
-        self.quote = {"No matter who you are, the matter is what you are."}
+        self.name = "Yoga Pranata Damanik"
+        self.age = 19
+        self.country = "Indonesia"
+        self.language = ["English", "Indonesia"]
+        self.quote = "No matter who you are, the matter is what you are."
 
 print("See you again👋")
 ```
@@ -69,6 +67,9 @@ print("See you again👋")
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ##
 ##### Some of Technology that i have worked with
 
@@ -97,6 +98,3 @@ print("See you again👋")
 
 ##
 [![zYxDevs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs)](https://t.me/Yoga_CIC)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
