@@ -97,4 +97,4 @@ print("See you again👋")
 </details>
 
 ##
-[![zYxDevs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs)](https://t.me/Yoga_CIC)
+[![zYxDevs WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs)](https://t.me/Yoga_CIC)
