@@ -26,7 +26,7 @@
 &nbsp;&nbsp;
 <a href="https://www.otakufanshare.eu.org"><img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/site/favicon-32x32.png" width="20" alt="Anime sites" width="20" height="20"></a>
 &nbsp;&nbsp;
-<a href="https://yoga-project.vercel.app"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
+<a href="https://www.isekai.eu.org"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
 </details>
 
 <details align="center">
@@ -62,11 +62,11 @@ print("See you again👋")
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Powershell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
@@ -79,15 +79,23 @@ print("See you again👋")
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-222222?style=flat&logo=netlify&logoColor=white)
+![Koyeb](https://img.shields.io/badge/-Koyeb-222222?style=flat&logo=koyeb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-222222?style=flat&logo=oracle&logoColor=white)
+![AlwaysData](https://img.shields.io/badge/-AlwaysData-222222?style=flat&logo=alwaysdata&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?&logo=Ubuntu)
+![Debian](https://img.shields.io/badge/OS-Debian-blue?&logo=Debian)
+![Alpine](https://img.shields.io/badge/OS-Alpine-blue?&logo=AlpineLinux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+![Android](https://img.shields.io/badge/OS-Android-blue?&logo=Android)
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
+![ElasticSearch](https://img.shields.io/badge/Elastic-white?&logo=ElasticSearch&logoColor=black)
 
 ##
 <details open>
@@ -97,4 +105,4 @@ print("See you again👋")
 </details>
 
 ##
-[![zYxDevs WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs)](https://t.me/Yoga_CIC)
+[![zYxDevs WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs)](https://t.me/Yoga_CIC)
