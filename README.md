@@ -101,7 +101,7 @@ print("See you again👋")
 <details>
 <summary><b>Cute visitor count</b></summary>
 <br>
-<a href="https://t.me/Yoga_CIC"><img alt="Cute count" src="https://count.getloli.com/get/@yoga?theme=rule34" /></a>
+<a href="https://t.me/Yoga_CIC"><img alt="Cute count" src="https://count.getloli.com/get/@yoga?theme=gelbooru-h" /></a>
 </details>
 
 ##
