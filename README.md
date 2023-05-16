@@ -27,6 +27,8 @@
 <a href="https://www.otakufanshare.eu.org"><img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/site/favicon-32x32.png" width="20" alt="Anime sites" width="20" height="20"></a>
 &nbsp;&nbsp;
 <a href="https://www.isekai.eu.org"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/assets/github.svg" width="30" alt="Github.io" width="20" height="20"></a>
+&nbsp;&nbsp;
+<a href="https://wibu-api.eu.org"><img src="https://wibu-api.eu.org/static/img/favicon.png" width="20.5" alt="Wibu API" width="20.5" height="20"></a>
 </details>
 
 <details align="center">
