@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm zYxDevs</h1>
 
 <p align="center">
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+HTML%2C+VBA%2C+JavaScript.;Love+Money+and+Life+is+Needed." alt="Apa Kontol?"></a>
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Junior+Backend+from+Indonesia.;Python%2C+PHP%2C+VBA%2C+JavaScript.;Keep+Breathing+as+far+I+can." alt="Apa Kontol?"></a>
 </p>
 
 <p align="center">
