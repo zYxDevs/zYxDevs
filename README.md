@@ -84,7 +84,8 @@ print("See you again👋")
 <h3>My Projects</h3>
 
 <i>I currently creating weebs related and my daily usable stuff.</i>
-<br><br>
+<br>
+
 <details><summary><a href="https://wibu-api.eu.org"><b>WibuAPI</b></a></summary><i>A weebs related rest api that contains Anime, Hentai, Donghua, Manga, Manhua, Manhwa, Doujin Scraper, and other useful features.</i></details>
 <details><summary><a href="https://github.com/zYxDevs/wibu-api-py"><b>WibuAPI Python</b></a></summary><i>Sync and Async Python wrapper for WibuAPI.</i></details>
 <details><summary><a href="https://github.com/zYxDevs/wibu-api-js"><b>WibuAPI Javascript</b></a></summary><i>Javascript wrapper for WibuAPI.</i></details>
