@@ -19,19 +19,19 @@
 <details open align="left">
     <summary><b>💻 Get Me On</b></summary><br/>
   <a href="https://fb.me/yoga.xvip">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174848.svg" alt="facebook" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174848.svg" alt="facebook" width="20" height="20"/>
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/itzme.yoga.id">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/174855.svg" alt="instagram" width="20" height="20">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174855.svg" alt="instagram" width="20" height="20">
   </a>&nbsp;&nbsp;
   <a href="https://t.me/Yoga_CIC">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/Telegram_logo.svg" alt="telegram" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/Telegram_logo.svg" alt="telegram" width="20" height="20"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/AccountYoga">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/466963.png" alt="twitter" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/466963.png" alt="twitter" width="20" height="20"/>
   </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/659718688219332639">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/discord_101785.svg" width="20.7" height="20.7" alt="discord"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="20.7" height="20.7" alt="discord"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.otakufanshare.eu.org">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/site/favicon-32x32.png" width="20" alt="Anime sites" width="20" height="20"/>
