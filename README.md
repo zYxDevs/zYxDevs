@@ -66,7 +66,6 @@
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/1017087.png"  width="20" height="20" alt="Ko-fi"/>
   </a>
 </details>
-
 <hr>
 
 ```python
@@ -80,25 +79,25 @@ class Biograph():
 
 print("See you again👋")
 ```
-<hr>
 
-<h3>My Projects</h5>
+<hr>
+<h3>My Projects</h3>
+
 <i>I currently creating weebs related and my daily usable stuff.</i>
 <br><br>
+<details><summary><a href="https://wibu-api.eu.org"><b>WibuAPI</b></a></summary><i>A weebs related rest api that contains Anime, Hentai, Donghua, Manga, Manhua, Manhwa, Doujin Scraper, and other useful features.</i></details>
+<details><summary><a href="https://github.com/zYxDevs/wibu-api-py"><b>WibuAPI Python</b></a></summary><i>Sync and Async Python wrapper for WibuAPI.</i></details>
+<details><summary><a href="https://github.com/zYxDevs/wibu-api-js"><b>WibuAPI Javascript</b></a></summary><i>Javascript wrapper for WibuAPI.</i></details>
+<details><summary><a href="https://t.me/AnimeRssFeed"><b>Anime RSS Feeds</b></a></summary><i>Gravure, Anime, Donghua, Manga, Manhwa, Doujin, JAV, Anime News, Japan Drama Auto Feeds.</i></details>
+<details><summary><a href="https://t.me/AutoWibu"><b>Auto Wibu</b></a></summary><i>Telegram Channel Auto Uploader latest Manga (Indonesia & English) and Hentai.</i></details>
+<details><summary><a href="https://t.me/YogaWaifuBot"><b>Asuna Yuuki</b></a></summary><i>Multifunction Group Management Telegram Bot with Asuna Yuuki theme from Sword Art Online.</i></details>
+<details><summary><a href="https://t.me/WibuAPIBot"><b>WibuAPI Bot</b></a></summary><i>Official WibuAPI Telegram Bot to interacted with WibuAPI.</i></details>
+<details><summary><a href="https://t.me/TomoeRobot"><b>Tomoe AniBot</b></a></summary><i>Weebs Related Telegram Bot that provide Anime, Character, Manga, Novel information and connected with AniList.</i></details>
 
-1. <details><summary><a href="https://wibu-api.eu.org"><b>WibuAPI</b></a></summary><i>A weebs related rest api that contains Anime, Hentai, Donghua, Manga, Manhua, Manhwa, Doujin Scraper, and other useful features.</i></details>
-2. <details><summary><a href="https://github.com/zYxDevs/wibu-api-py"><b>WibuAPI Python</b></a></summary><i>Sync and Async Python wrapper for WibuAPI.</i></details>
-3. <details><summary><a href="https://github.com/zYxDevs/wibu-api-js"><b>WibuAPI Javascript</b></a></summary><i>Javascript wrapper for WibuAPI.</i></details>
-4. <details><summary><a href="https://t.me/AnimeRssFeed"><b>Anime RSS Feeds</b></a></summary><i>Gravure, Anime, Donghua, Manga, Manhwa, Doujin, JAV, Anime News, Japan Drama Auto Feeds.</i></details>
-5. <details><summary><a href="https://t.me/AutoWibu"><b>Auto Wibu</b></a></summary><i>Telegram Channel Auto Uploader latest Manga (Indonesia & English) and Hentai.</i></details>
-6. <details><summary><a href="https://t.me/YogaWaifuBot"><b>Asuna Yuuki</b></a></summary><i>Multifunction Group Management Telegram Bot with Asuna Yuuki theme from Sword Art Online.</i></details>
-7. <details><summary><a href="https://t.me/WibuAPIBot"><b>WibuAPI Bot</b></a></summary><i>Official WibuAPI Telegram Bot to interacted with WibuAPI.</i></details>
-8. <details><summary><a href="https://t.me/TomoeRobot"><b>Tomoe AniBot</b></a></summary><i>Weebs Related Telegram Bot that provide Anime, Character, Manga, Novel information and connected with AniList.</i></details>
-
+<br>
 <a href="https://t.me/SpreadNetworks"><i>See my other Telegram Bots and My Project Updates on here.</i></a>
 
 <hr>
-
 <h5>Languages that i've been use</h5>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -113,7 +112,6 @@ print("See you again👋")
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 <hr>
-
 <h5>Technology that i've been use</h5>
 
 ![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
