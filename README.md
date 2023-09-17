@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://t.me/Yoga_CIC">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"/>
   </a>
 </p>
 
@@ -60,14 +60,14 @@
 <details align="left">
     <summary><b>💸 Donate Link</b></summary><br/>
   <a href="https://paypal.me/YogaPranataDMK">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/888870.png"  width="20" height="20" alt="Paypal"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/888870.png"  width="20" height="20" alt="Paypal"/>
   </a>&nbsp; &nbsp;
   <a href="https://ko-fi.com/yogapranata">
-    <img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"/>
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/1017087.png"  width="20" height="20" alt="Ko-fi"/>
   </a>
 </details>
 
-###
+<hr>
 
 ```python
 class Biograph():
@@ -81,8 +81,8 @@ class Biograph():
 print("See you again👋")
 ```
 
-##
-##### Languages that i've been use
+<hr>
+<h5>Languages that i've been use</h5>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
@@ -94,8 +94,8 @@ print("See you again👋")
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-##
-##### Some of Technology that i have worked with
+<hr>
+<h5>Technology that i've been use</h5>
 
 ![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
@@ -123,7 +123,7 @@ print("See you again👋")
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/ElasticDB-white?&logo=ElasticSearch&logoColor=black)
 
-##
+<hr>
 <details open>
   <summary><b>Cute visitor count</b></summary><br>
   <a href="https://t.me/Yoga_CIC">
