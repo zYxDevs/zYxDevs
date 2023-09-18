@@ -86,6 +86,7 @@ print("See you again👋")
 <i>I currently creating weebs related and my daily usable stuff.</i>
 <br>
 
+<details><summary><a href="https://zyxdevs.eu.org"><b>zYxCloud</b></a></summary><i>Free File Hosting with permanent link, no ads, unlimited, and fast. Support direct link upload.</i></details>
 <details><summary><a href="https://wibu-api.eu.org"><b>WibuAPI</b></a></summary><i>A weebs related rest api that contains Anime, Hentai, Donghua, Manga, Manhua, Manhwa, Doujin Scraper, and other useful features.</i></details>
 <details><summary><a href="https://github.com/zYxDevs/wibu-api-py"><b>WibuAPI Python</b></a></summary><i>Sync and Async Python wrapper for WibuAPI.</i></details>
 <details><summary><a href="https://github.com/zYxDevs/wibu-api-js"><b>WibuAPI Javascript</b></a></summary><i>Javascript wrapper for WibuAPI.</i></details>
