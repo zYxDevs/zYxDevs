@@ -104,7 +104,7 @@ print("See you again👋")
 
 <hr>
 
-<h5>Languages that i've been use</h5>
+<details><summary><b>Languages that i've been use</b></summary><br>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
@@ -116,10 +116,12 @@ print("See you again👋")
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+</details>
 
 <hr>
 
-<h5>Technology that i've been use</h5>
+<details>
+  <summary><b>Technology that i've been use</b></summary><br>
 
 ![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
@@ -146,6 +148,7 @@ print("See you again👋")
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
 ![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/ElasticDB-white?&logo=ElasticSearch&logoColor=black)
+</details>
 
 <hr>
 
