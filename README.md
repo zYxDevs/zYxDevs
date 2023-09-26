@@ -50,7 +50,7 @@
     <img align="center" alt="zYxDevs Github Trophy" src="https://piala.isekai.eu.org/?username=zYxDevs&theme=dracula&row=2&column=4"/>
   </a><br>
   <a href="https://github.com/zYxDevs">
-    <img align="center" alt="zYxDevs Top Langs" src="https://dibaca.isekai.eu.org/api/top-langs/?username=zYxDevs&theme=cobalt&langs_count=8&hide_progress=true&hide=markdown,yaml,json,pascal,shell,batchfile,html,css"/>
+    <img align="center" alt="zYxDevs Top Langs" src="https://dibaca.isekai.eu.org/api/top-langs/?username=zYxDevs&theme=cobalt&langs_count=6&hide_progress=true&hide=markdown,yaml,json,pascal,shell,batchfile,html,css,c"/>
   </a><br>
   <a href="https://t.me/Yoga_CIC">
     <img alt="Nyari Apa?" src="https://dibaca.isekai.eu.org/api/wakatime?username=zYxDevs&layout=compact"/>
