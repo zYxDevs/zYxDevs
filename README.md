@@ -47,7 +47,7 @@
     <img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400"/>
   </a><br>
   <a href="https://t.me/Yoga_CIC">
-    <img align="center" alt="zYxDevs Github Trophy" src="https://github-profile-trophy.vercel.app/?username=zYxDevs&theme=dracula&row=2&column=4"/>
+    <img align="center" alt="zYxDevs Github Trophy" src="https://piala.isekai.eu.org/?username=zYxDevs&theme=dracula&row=2&column=4"/>
   </a><br>
   <a href="https://github.com/zYxDevs">
     <img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&layout=compact&langs_count=6"/>
