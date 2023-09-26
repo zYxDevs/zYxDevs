@@ -44,13 +44,13 @@
 <details align="center">
     <summary><b>📝 Statistics</b></summary><br/>
   <a href="https://github.com/zYxDevs">
-    <img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+    <img align="center" alt="zYxDevs Stats" src="https://github-readme-stats.vercel.app/api?username=zYxDevs&show_icons=true&rank_icon=percentile&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=21600&show=reviews,prs_merged,prs_merged_percentage"/>
   </a><br>
   <a href="https://t.me/Yoga_CIC">
     <img align="center" alt="zYxDevs Github Trophy" src="https://piala.isekai.eu.org/?username=zYxDevs&theme=dracula&row=2&column=4"/>
   </a><br>
   <a href="https://github.com/zYxDevs">
-    <img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&layout=compact&langs_count=6"/>
+    <img align="center" alt="zYxDevs Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zYxDevs&theme=cobalt&hide_progress=true&langs_count=8&hide=markdown,yaml,json,pascal"/>
   </a><br>
   <a href="https://t.me/Yoga_CIC">
     <img alt="Nyari Apa?" src="https://github-readme-stats.vercel.app/api/wakatime?username=zYxDevs"/>
