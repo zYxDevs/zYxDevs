@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm zYxDevs</h1>
 
 <p align="center">
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Junior+Backend+from+Indonesia.;Python%2C+PHP%2C+HTML%2C+JavaScript.;Keep+Learning+as+much+I+can." alt="Apa Kontol?"/>
+  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Junior+Backend+from+Indonesia.;Python%2C+PHP%2C+Ts%2C+Js%2C+VBA;Keep+Learning+as+much+I+can." alt="Apa Kontol?"/>
   </a>
 </p>
 
@@ -153,6 +153,6 @@ print("See you again👋")
 <details open>
   <summary><b>Cute visitor count</b></summary><br>
   <a href="https://t.me/Yoga_CIC">
-    <img alt="Cute count" src="https://moe.isekai.eu.org/get/@zyxdevs?theme=gelbooru-h"/>
+    <img alt="Cute count" src="https://moe.isekai.eu.org/get/@zyxdevs?theme=rule34"/>
   </a>
 </details>
