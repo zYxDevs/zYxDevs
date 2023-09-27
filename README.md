@@ -155,6 +155,6 @@ print("See you again👋")
 <details open>
   <summary><b>Cute visitor count</b></summary><br>
   <a href="https://t.me/Yoga_CIC">
-    <img alt="Cute count" src="https://count.getloli.com/get/@yoga?theme=gelbooru-h"/>
+    <img alt="Cute count" src="https://moe.isekai.eu.org/get/@zyxdevs?theme=gelbooru-h"/>
   </a>
 </details>
