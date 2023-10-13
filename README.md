@@ -153,6 +153,6 @@ print("See you again👋")
 <details open>
   <summary><b>Cute visitor count</b></summary><br>
   <a href="https://t.me/Yoga_CIC">
-    <img alt="Cute count" src="https://moe.isekai.eu.org/get/@zyxdevs?theme=rule34"/>
+    <img alt="Cute count" src="https://moe-counter--zyxdevs.repl.co/get/@zyxdevs?theme=rule34"/>
   </a>
 </details>
