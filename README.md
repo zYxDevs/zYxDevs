@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style=" float:left, margin-right:10px" alt="Followers"/>
 </p>
 
