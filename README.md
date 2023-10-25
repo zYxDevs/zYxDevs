@@ -97,7 +97,7 @@ print("See you again👋")
 <details><summary><a href="https://t.me/YogaWaifuBot"><b>Asuna Yuuki</b></a></summary><i>Multifunction Group Management Telegram Bot with Asuna Yuuki theme from Sword Art Online.</i></details>
 <details><summary><a href="https://t.me/WibuAPIBot"><b>WibuAPI Bot</b></a></summary><i>Official WibuAPI Telegram Bot to interacted with WibuAPI.</i></details>
 <details><summary><a href="https://t.me/TomoeRobot"><b>Tomoe AniBot</b></a></summary><i>Weebs Related Telegram Bot that provide Anime, Character, Manga, Novel information and connected with AniList.</i></details>
-<details><summary><a href="https://t.me/APKRss"><b>APK Downloader | RSS</b></a></summary><i>Download latest modded apps directly from telegram, It's auto updated with rss feeds.</i></details>
+<details><summary><a href="https://t.me/tgwit"><b>Twitter2Telegram</b></a></summary><i>Get latest media post of your favorites artist.</i></details>
 
 <br>
 <a href="https://t.me/SpreadNetworks"><i>See my other Telegram Bots and My Project Updates on here.</i></a>
