@@ -88,15 +88,21 @@ print("See you again👋")
 <i>I currently creating weebs related and my daily usable stuff.</i>
 <br>
 
-<details><summary><a href="https://zyxdevs.eu.org"><b>zYxCloud</b></a></summary><i>Free File Hosting with permanent link, no ads, unlimited, and fast. Support direct link upload.</i></details>
+<details><summary><a href="https://zyxdevs.eu.org"><b>zYxCloud</b></a></summary><i>Free File Hosting with permanent link, no ads, unlimited, and fast. Support direct link upload.</i>
+  <br><b>Alternative links:</b>
+  <ul>
+    <li><code>https://zyxcloud.my.id</code></li>
+  </ul>
+</details>
 <details><summary><a href="https://wibu-api.eu.org"><b>WibuAPI</b></a></summary><i>A weebs related rest api that contains Anime, Hentai, Donghua, Manga, Manhua, Manhwa, Doujin Scraper, and other useful features.</i>
-  <details><summary>Alternative links.</summary>
-    https://wibuapi.pp.ua<br>
-    https://wibuapi.me<br>
-    https://wibuapi.is-a.dev<br>
-    http://wibuapi.wip.la<br>
-    https://wibuapi.merahputih.moe
-  </details>
+  <br><b>Alternative links:</b>
+  <ul>
+    <li><code>https://wibuapi.pp.ua</code></li>
+    <li><code>https://wibuapi.me</code></li>
+    <li><code>https://wibuapi.is-a.dev</code></li>
+    <li><code>http://wibuapi.wip.la</code></li>
+    <li><code>https://wibuapi.merahputih.moe</code></li>
+  </ul>
 </details>
 <details><summary><a href="https://github.com/zYxDevs/wibu-api-py"><b>WibuAPI Python</b></a></summary><i>Sync and Async Python wrapper for WibuAPI.</i></details>
 <details><summary><a href="https://github.com/zYxDevs/wibu-api-js"><b>WibuAPI Javascript</b></a></summary><i>Javascript wrapper for WibuAPI.</i></details>
