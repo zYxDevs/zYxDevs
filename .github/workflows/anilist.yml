@@ -1,4 +1,4 @@
-name: AniList readme workflow
+name: AniList README workflow
 on:
   schedule:
     # Runs every hour
@@ -14,6 +14,7 @@ jobs:
       - name: AniList readme workflow
         uses: pxseu/anilist-readme@senpai # latest version
         with:
-          user_name: "YogaPranata"
-          max_post_count: 10
+          user_id: 5393450
+          max_post_count: 5
           timezone: "Asia/Jakarta"
+          date_format: "{h}:{m} {D}/{M}/{Y}"
