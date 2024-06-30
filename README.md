@@ -87,36 +87,5 @@
 
       <!-- ANILIST_ACTIVITY:end -->
     </div>
-    <br>
-    <h2 align="center">💖 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓮𝓼 𝓬𝓱𝓪𝓻𝓪𝓬𝓽𝓮𝓻𝓼 💖</h2>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/ai_wink.gif" align="right" width="350" height="200">
-    </div>
-    <br>
-    <div>
-      <!-- favorites_characters starts -->
-* <a href='https://anilist.co/character/121830'>Yukana Yame</a><br>* <a href='https://anilist.co/character/23495'>Mikako Satsukitane</a><br>* <a href='https://anilist.co/character/36828'>Asuna Yuuki</a><br>* <a href='https://anilist.co/character/36831'>Suguha Kirigaya</a><br>* <a href='https://anilist.co/character/151895'>Ayane Shirakawa</a><br>* <a href='https://anilist.co/character/151896'>Kotone Shirakawa</a><br>* <a href='https://anilist.co/character/50389'>Rias Gremory</a><br>* <a href='https://anilist.co/character/125603'>Pieck Finger</a><br>* <a href='https://anilist.co/character/20843'>Echo</a><br>* <a href='https://anilist.co/character/33221'>Sora Kasugano</a><br>* <a href='https://anilist.co/character/120674'>Ginko Sora</a><br>* <a href='https://anilist.co/character/37513'>Yozora Mikazuki</a><br>* <a href='https://anilist.co/character/76364'>Aki Adagaki</a><br>* <a href='https://anilist.co/character/25294'>Aki Aoi</a><br>* <a href='https://anilist.co/character/85727'>Ryouko Sakaki</a><br>* <a href='https://anilist.co/character/13916'>Kaori Kanzaki</a><br>* <a href='https://anilist.co/character/123217'>Sae Chabashira</a><br>* <a href='https://anilist.co/character/88956'>Alice Nakiri</a><br>* <a href='https://anilist.co/character/75450'>Alice Zuberg</a><br>* <a href='https://anilist.co/character/155191'>Alice Kisaragi</a><br>* <a href='https://anilist.co/character/170214'>Aliceliese Lou Nebulis IX</a><br>* <a href='https://anilist.co/character/21420'>Will of the Abyss</a><br>* <a href='https://anilist.co/character/126375'>Itsuki Nakano</a><br>* <a href='https://anilist.co/character/126373'>Miku Nakano</a><br>* <a href='https://anilist.co/character/126372'>Nino Nakano</a>
-<!-- favorites_characters ends -->
-    </div>
-    <br>
-    <h2 align="center">📺 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓮𝓼 𝓪𝓷𝓲𝓶𝓮 📺</h2>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/ai_wink.gif" align="right" width="350" height="200">
-    </div>
-    <br>
-    <div>
-      <!-- favorites_anime starts -->
-      <!-- favorites_anime ends -->
-    </div>
-    <br>
-    <h2 align="center">📖 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓮𝓼 𝓶𝓪𝓷𝓰𝓪 📖</h2>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/ai_wink.gif" align="right" width="350" height="200">
-    </div>
-    <br>
-    <div>
-      <!-- favorites_manga starts -->
-      <!-- favorites_manga ends -->
-    </div>
   </center>
 </body>
