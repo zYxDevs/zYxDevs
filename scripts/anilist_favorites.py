@@ -6,9 +6,7 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://graphql.anilist.co")
 
-
 TOKEN = os.environ.get("ANILIST_TOKEN", "")
-
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -95,6 +93,7 @@ def fetch_favorites(oauth_token, types='anime'):
 if __name__ == "__main__":
     readme = root / "../AniList.md"
     readme_contents = readme.open().read()
+    
     # Favorites Anime
     data = fetch_favorites(TOKEN, types='anime')
     res = "\n".join(
@@ -104,7 +103,8 @@ if __name__ == "__main__":
         ]
     )
     print(res)
-    rewritten = replace_chunk(readme_contents, "favorites_anime", res)
+    readme_contents = replace_chunk(readme_contents, "favorites_anime", res)
+    
     # Favorites Manga
     data = fetch_favorites(TOKEN, types='manga')
     res = "\n".join(
@@ -114,7 +114,8 @@ if __name__ == "__main__":
         ]
     )
     print(res)
-    rewritten = replace_chunk(readme_contents, "favorites_manga", res)
+    readme_contents = replace_chunk(readme_contents, "favorites_manga", res)
+    
     # Favorites Characters
     data = fetch_favorites(TOKEN, types='characters')
     res = "\n".join(
@@ -124,6 +125,7 @@ if __name__ == "__main__":
         ]
     )
     print(res)
-    rewritten = replace_chunk(readme_contents, "favorites_characters", res)
+    readme_contents = replace_chunk(readme_contents, "favorites_characters", res)
     
-    readme.open("w").write(rewritten)
+    with open(readme, "w") as f:
+        f.write(readme_contents)
