@@ -79,11 +79,6 @@
 -   📺 Completed <a href='https://anilist.co/anime/119254'>Kanojo ga Yatsu ni Dakareta hi</a> (13:28 30/06/2024)<br>
 -   📖 Completed <a href='https://anilist.co/manga/116809'>Happy Harem Making with the Mightiest Orc!</a> (11:36 30/06/2024)<br>
 -   📖 Plans to read <a href='https://anilist.co/manga/164895'>Shibou Taijou Suru Hazu no "Setteijou Saikyou Chara" ni Tensei Shita Ore wa, Subete no Shibou Flag wo Hataki Oru Koto ni Shita</a> (11:35 30/06/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/162804'>Alya Sometimes Hides Her Feelings in Russian</a> (11:33 30/06/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/152681'>Days with My Stepsister</a> (11:32 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/166828'>A Salad Bowl of Eccentrics</a> (11:30 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/160090'>Mysterious Disappearances</a> (11:29 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/145728'>Spice and Wolf: MERCHANT MEETS THE WISE WOLF</a> (11:27 30/06/2024)<br>
 
       <!-- ANILIST_ACTIVITY:end -->
     </div>
