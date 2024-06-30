@@ -97,33 +97,33 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     # Favorites Anime
     data = fetch_favorites(TOKEN, types='anime')
-    res = "<br>".join(
+    res = "\n".join(
         [
-            "* <a href='{url}'>{title}</a>".format(**x)
+            "* [{title}]({url})".format(**x)
             for x in data
         ]
     )
-    print (res)
+    print(res)
     rewritten = replace_chunk(readme_contents, "favorites_anime", res)
     # Favorites Manga
     data = fetch_favorites(TOKEN, types='manga')
-    res = "<br>".join(
+    res = "\n".join(
         [
-            "* <a href='{url}'>{title}</a>".format(**x)
+            "* [{title}]({url})".format(**x)
             for x in data
         ]
     )
-    print (res)
+    print(res)
     rewritten = replace_chunk(readme_contents, "favorites_manga", res)
     # Favorites Characters
     data = fetch_favorites(TOKEN, types='characters')
-    res = "<br>".join(
+    res = "\n".join(
         [
-            "* <a href='{url}'>{title}</a>".format(**x)
+            "* [{title}]({url})".format(**x)
             for x in data
         ]
     )
-    print (res)
+    print(res)
     rewritten = replace_chunk(readme_contents, "favorites_characters", res)
     
     readme.open("w").write(rewritten)
