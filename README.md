@@ -1,6 +1,8 @@
-<link rel="icon" href="https://wibu-api.eu.org/static/img/favicon1.png" type="image/x-icon">
+<head>
+  <link rel="icon" href="https://wibu-api.eu.org/static/img/favicon1.png" type="image/x-icon">
+</head>
 
-<h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 𝔃𝓨𝔁𝓓𝓮𝓿𝓼</h1>
+<h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 zYxDevs</h1>
 
 <br>
 <div align="center">
@@ -124,7 +126,7 @@
 </div>
 
 <br>
-<h2 align="center"><b>👋 またね 👋</b></h2>
+<h2 align="center">👋 またね 👋</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/hi_goodbye.gif"/>
 </div>
