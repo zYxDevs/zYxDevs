@@ -73,16 +73,16 @@ class Biograph():
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed <a href='https://anilist.co/anime/101280'>That Time I Got Reincarnated as a Slime</a> (11:20 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/108511'>That Time I Got Reincarnated as a Slime Season 2</a> (11:19 30/06/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/178680'>WIND BREAKER Season 2</a> (11:18 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/163270'>WIND BREAKER</a> (11:18 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/151380'>Date A Live V</a> (11:18 30/06/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/178707'>Mahouka Koukou no Rettousei: Yotsuba Keishou-hen</a> (11:17 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/143271'>The Irregular at Magic High School Season 3</a> (11:17 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/112300'>The Irregular at Magic High School: Visitor Arc</a> (11:17 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/20458'>The Irregular at Magic High School</a> (11:17 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/130389'>The Irregular at Magic High School: Reminiscence Arc</a> (11:17 30/06/2024)<br>
+-   📖 Completed <a href='https://anilist.co/manga/116809'>Happy Harem Making with the Mightiest Orc!</a> (11:36 30/06/2024)<br>
+-   📖 Plans to read <a href='https://anilist.co/manga/164895'>Shibou Taijou Suru Hazu no "Setteijou Saikyou Chara" ni Tensei Shita Ore wa, Subete no Shibou Flag wo Hataki Oru Koto ni Shita</a> (11:35 30/06/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/162804'>Alya Sometimes Hides Her Feelings in Russian</a> (11:33 30/06/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/152681'>Days with My Stepsister</a> (11:32 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/166828'>A Salad Bowl of Eccentrics</a> (11:30 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/160090'>Mysterious Disappearances</a> (11:29 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/145728'>Spice and Wolf: MERCHANT MEETS THE WISE WOLF</a> (11:27 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/5341'>Spice and Wolf II</a> (11:26 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/6007'>Spice and Wolf II: Wolf and the Amber Melancholy</a> (11:26 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/2966'>Spice and Wolf</a> (11:26 30/06/2024)<br>
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
