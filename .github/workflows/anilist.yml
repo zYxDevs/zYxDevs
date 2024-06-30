@@ -12,9 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: AniList readme workflow
-        uses: pxseu/anilist-readme@senpai # latest version
+        uses: zyxdevs/anilist-readme@senpai # latest version
         with:
           user_id: 5393450
-          max_post_count: 5
+          max_post_count: 10
           timezone: "Asia/Jakarta"
-          format_date: "{h}:{m} {D}/{M}/{Y}"
+          date_format: "{h}:{m} {D}/{M}/{Y}"
+          text_format: "html"
