@@ -1,4 +1,5 @@
 <h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 𝔃𝓨𝔁𝓓𝓮𝓿𝓼</h1>
+
 <br>
 <div align="center">
   <a href="https://github.com/zYxDevs">
@@ -7,22 +8,25 @@
   <br>
   <p>𝓝𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓸 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
   <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
-  <p>𝓡𝓮𝓼𝓽 𝓐𝓹𝓲 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮: <a href="https://wibu-api.eu.org/docs">𝓦𝓲𝓫𝓾 𝓐𝓹𝓲</a></p>
+  <p>𝓡𝓮𝓼𝓽 𝓐𝓹𝓲 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮: <a href="https://wibu-api.eu.org">𝓦𝓲𝓫𝓾 𝓐𝓹𝓲</a></p>
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/zYxDevs?label=Followers" style="float:left, margin-right:10px" alt="Followers"/>
 </div>
+
 <br>
-<div>
-  <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="240" align="right">
-  </div>
-  <li><b>Name:</b> Yoga Pranata Damanik</li>
-  <li><b>Age:</b> 21 y.o</li>
-  <li><b>Residence:</b> Isekai</li>
-  <li><b>Hobbys:</b> Tech Stuff, Gaming</li>
+<h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="240" align="right">
+</div>
+
+<div align="left">
+  <li><b>Name: Yoga Pranata Damanik</b></li>
+  <li><b>Age: 21 y.o</b></li>
+  <li><b>Residence: Isekai</b></li>
+  <li><b>Hobbys: Tech Stuff, Gaming</b></li>
   <br><br>
   <b>Follow me on:</b><br><br>
   <a href="https://fb.me/yoga.xvip">
@@ -41,14 +45,13 @@
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="20.7" height="20.7" alt="discord"/>
   </a>
 </div>
+
 <br>
-<div>
-  <h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
-  <br>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/kurumi_daisuki.gif" align="right" height="250" width="400"/>
-  </div>
+<h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/kurumi_daisuki.gif" align="right" height="250" width="400"/>
 </div>
+
 <div>
   <br>
   <p align="center">
@@ -67,11 +70,13 @@
     𝓘 𝓳𝓾𝓼𝓽 𝓱𝓸𝓹𝓮 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 𝔀𝓲𝓵𝓵 𝓾𝓼𝓮𝓯𝓾𝓵 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮.
   </p>
 </div>
+
 <br>
 <h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓻𝓮𝓬𝓮𝓷𝓽𝓵𝔂 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="280" height="280"/>
 </div>
+
 <br>
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
@@ -86,6 +91,7 @@
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
+
 <br>
 <h2 align="center">👋 またね 👋</h2>
 <div align="center">
