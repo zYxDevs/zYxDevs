@@ -94,9 +94,9 @@
 </div>
 
 <br>
-<h2 align="center">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h2>
+<h2 align="center">☎️ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ☎️</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400" height="210"/>
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400" height="230"/>
 </div>
 
 <br>
@@ -121,7 +121,7 @@
   </a>
 </div>
 
-<br>
+<br><br>
 <h2 align="center"><b>👋 またね 👋</b></h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/hi_goodbye.gif"/>
