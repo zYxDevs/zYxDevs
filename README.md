@@ -7,7 +7,7 @@
   </a>
   <br>
   <p>𝓝𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓸 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
-  <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p><br>
+  <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
   <p>𝓡𝓮𝓼𝓽 𝓐𝓹𝓲 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮: <a href="https://wibu-api.eu.org">𝓦𝓲𝓫𝓾 𝓐𝓹𝓲</a></p>
 </div>
 
@@ -121,7 +121,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 <h2 align="center"><b>👋 またね 👋</b></h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/hi_goodbye.gif"/>
