@@ -93,7 +93,7 @@ def fetch_favorites(oauth_token, types='anime'):
     return results   
 
 if __name__ == "__main__":
-    readme = root / "../README.md"
+    readme = root / "../AniList.md"
     readme_contents = readme.open().read()
     # Favorites Anime
     data = fetch_favorites(TOKEN, types='anime')
