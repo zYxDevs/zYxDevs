@@ -19,7 +19,7 @@
 <br>
 <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="270" align="right">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="255" align="right">
 </div>
 
 <br>
@@ -46,7 +46,6 @@
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/466963.png" alt="twitter" width="20" height="20"/>
   </a>
 </div>
-<br>
 
 <br>
 <h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
@@ -76,7 +75,7 @@
 <br>
 <h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓻𝓮𝓬𝓮𝓷𝓽𝓵𝔂 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="280" height="280"/>
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="260" height="260"/>
 </div>
 
 <br>
@@ -93,12 +92,11 @@
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
-<br>
 
 <br>
 <h2 align="center">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400"/>
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400" height="220"/>
 </div>
 
 <br>
@@ -122,7 +120,6 @@
     <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/>
   </a>
 </div>
-<br>
 
 <br>
 <h2 align="center"><b>👋 またね 👋</b></h2>
