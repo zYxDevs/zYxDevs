@@ -19,7 +19,7 @@
 <br>
 <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="250" width="350" align="right">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="260" width="320" align="right">
 </div>
 
 <br>
@@ -75,7 +75,7 @@
 <br>
 <h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="250" height="260"/>
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="250" height="250"/>
 </div>
 
 <br>
@@ -96,7 +96,7 @@
 <br>
 <h2 align="center">☎️ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ☎️</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400" height="230"/>
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400" height="220"/>
 </div>
 
 <br>
@@ -117,7 +117,7 @@
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="50.7" height="50.7" alt="discord"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:yoga@isekai.eu.org">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/><br>
   </a>
 </div>
 
