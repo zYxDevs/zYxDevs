@@ -73,6 +73,9 @@ class Biograph():
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed <a href='https://anilist.co/anime/123383'>White Blue</a> (13:29 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/6987'>Aki-Sora</a> (13:29 30/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/119254'>Kanojo ga Yatsu ni Dakareta hi</a> (13:28 30/06/2024)<br>
 -   📖 Completed <a href='https://anilist.co/manga/116809'>Happy Harem Making with the Mightiest Orc!</a> (11:36 30/06/2024)<br>
 -   📖 Plans to read <a href='https://anilist.co/manga/164895'>Shibou Taijou Suru Hazu no "Setteijou Saikyou Chara" ni Tensei Shita Ore wa, Subete no Shibou Flag wo Hataki Oru Koto ni Shita</a> (11:35 30/06/2024)<br>
 -   📺 Plans to watch <a href='https://anilist.co/anime/162804'>Alya Sometimes Hides Her Feelings in Russian</a> (11:33 30/06/2024)<br>
@@ -80,9 +83,6 @@ class Biograph():
 -   📺 Completed <a href='https://anilist.co/anime/166828'>A Salad Bowl of Eccentrics</a> (11:30 30/06/2024)<br>
 -   📺 Completed <a href='https://anilist.co/anime/160090'>Mysterious Disappearances</a> (11:29 30/06/2024)<br>
 -   📺 Completed <a href='https://anilist.co/anime/145728'>Spice and Wolf: MERCHANT MEETS THE WISE WOLF</a> (11:27 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/5341'>Spice and Wolf II</a> (11:26 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/6007'>Spice and Wolf II: Wolf and the Amber Melancholy</a> (11:26 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/2966'>Spice and Wolf</a> (11:26 30/06/2024)<br>
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
