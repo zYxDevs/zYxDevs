@@ -19,3 +19,4 @@ jobs:
           timezone: "Asia/Jakarta"
           date_format: "{h}:{m} {D}/{M}/{Y}"
           text_format: "html"
+          preffered_language: "native"
