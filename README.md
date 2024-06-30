@@ -120,7 +120,7 @@
 * [Itsuki Nakano](https://anilist.co/character/126375)
 * [Miku Nakano](https://anilist.co/character/126373)
 * [Nino Nakano](https://anilist.co/character/126372)
-<!-- favorites_characters ends -->
+      <!-- favorites_characters ends -->
     </div>
     <br>
     <h2 align="center">📺 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓮𝓼 𝓪𝓷𝓲𝓶𝓮 📺</h2>
@@ -130,7 +130,6 @@
     <br>
     <div>
       <!-- favorites_anime starts -->
-      testo anime
       <!-- favorites_anime ends -->
     </div>
     <br>
@@ -141,7 +140,6 @@
     <br>
     <div>
       <!-- favorites_manga starts -->
-      testo manga
       <!-- favorites_manga ends -->
     </div>
   </center>
