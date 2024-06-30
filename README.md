@@ -9,7 +9,7 @@
       <br>
       <p>𝓝𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓸 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
       <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
-      <p><a href="https://wibu-api.eu.org/docs">~ 𝓦𝓲𝓫𝓾 𝓐𝓟𝓘 ~</a><p>
+      <p><a href="https://wibu-api.eu.org/docs">𝓦𝓲𝓫𝓾 𝓐𝓟𝓘</a><p>
     </div>
     <div align="center">
       <img src="https://komarev.com/ghpvc/?username=zYxDevs&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
@@ -49,7 +49,7 @@
       <br>
       <p>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/kurumi_daisuki.gif" align="right" height="250" width="400">
+        <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/kurumi_daisuki.gif" align="right" height="250" width="400"/>
       </div>
     </div>
     <div>
@@ -76,7 +76,7 @@
       <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="270" height="270"/>
     </div>
     <br>
-    <div>
+    <div align="left">
       <!-- ANILIST_ACTIVITY:start -->
 
 -   📺 Completed <a href='https://anilist.co/anime/123383'>White Blue</a> (13:29 30/06/2024)<br>
