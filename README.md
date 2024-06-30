@@ -19,7 +19,7 @@
 <br>
 <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="250" align="right">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="250" width="350" align="right">
 </div>
 
 <br>
@@ -73,7 +73,7 @@
 </div>
 
 <br>
-<h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓻𝓮𝓬𝓮𝓷𝓽𝓵𝔂 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
+<h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="250" height="260"/>
 </div>
