@@ -1,3 +1,5 @@
+<link rel="icon" href="https://wibu-api.eu.org/static/img/favicon1.png" type="image/x-icon">
+
 <h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 𝔃𝓨𝔁𝓓𝓮𝓿𝓼</h1>
 
 <br>
@@ -19,7 +21,7 @@
 <br>
 <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="260" width="320" align="right">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="270" width="320" align="right">
 </div>
 
 <br>
