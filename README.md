@@ -78,6 +78,11 @@ class Biograph():
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (19:24 26 June 2024)
 -   📺 Completed [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (13:47 23 May 2024)
 -   📺 Completed [Throne of Seal](https://anilist.co/anime/146409) (13:47 23 May 2024)
+-   📖 Plans to read [Kimi wa Meido-sama.](https://anilist.co/manga/121700) (02:03 19 April 2024)
+-   📺 Plans to watch [Kimi wa Meido-sama.](https://anilist.co/anime/172190) (01:54 19 April 2024)
+-   📺 Plans to watch [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/anime/156023) (12:38 13 March 2024)
+-   📺 Completed [SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist](https://anilist.co/anime/20910) (06:09 06 January 2024)
+-   📺 Plans to watch [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (13:32 18 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
