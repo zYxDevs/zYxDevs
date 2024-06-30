@@ -1,4 +1,4 @@
-name: Synchronize
+name: Synchronize favorites
 on:
   schedule:
     # Runs every hour
