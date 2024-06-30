@@ -7,7 +7,7 @@
   </a>
   <br>
   <p>𝓝𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓸 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
-  <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
+  <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p><br>
   <p>𝓡𝓮𝓼𝓽 𝓐𝓹𝓲 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮: <a href="https://wibu-api.eu.org">𝓦𝓲𝓫𝓾 𝓐𝓹𝓲</a></p>
 </div>
 
@@ -19,9 +19,10 @@
 <br>
 <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="240" align="right">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="270" align="right">
 </div>
 
+<br>
 <div align="left">
   <li><b>Name: Yoga Pranata Damanik</b></li>
   <li><b>Age: 21 y.o</b></li>
@@ -35,14 +36,14 @@
   <a href="https://instagram.com/itzme.yoga.id">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174855.svg" alt="instagram" width="20" height="20">
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/Yoga_CIC">
-    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/Telegram_logo.svg" alt="telegram" width="20" height="20"/>
+  <a href="https://tiktok.com/@yuzato">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/tiktok.svg" alt="tiktok" width="20" height="20">
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/zyxdevs">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/dev_to.svg" alt="dev.to" width="20" height="20">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/AccountYoga">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/466963.png" alt="twitter" width="20" height="20"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/659718688219332639">
-    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="20.7" height="20.7" alt="discord"/>
   </a>
 </div>
 
@@ -93,7 +94,35 @@
 </div>
 
 <br>
-<h2 align="center">👋 またね 👋</h2>
+<h2 align="center">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h2>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400"/>
+</div>
+
+<br>
+<p align="center">
+  𝓨𝓸𝓾 𝓬𝓪𝓷 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓯𝓻𝓸𝓶 𝓽𝓱𝓲𝓼 𝓵𝓲𝓼𝓽𝓮𝓭 𝓪𝓬𝓬𝓸𝓾𝓷𝓽.<br>
+  𝓘𝓯 𝔂𝓸𝓾 𝔀𝓪𝓷𝓽 𝓱𝓲𝓻𝓮 𝓶𝓮 𝓯𝓸𝓻 𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽, 𝓹𝓵𝓮𝓪𝓼𝓮 𝓷𝓸𝓽𝓮 𝓽𝓱𝓪𝓽 𝓘'𝓶 𝓼𝓽𝓲𝓵𝓵 𝓷𝓮𝔀𝓫𝓲𝓮 𝓪𝓽 𝓬𝓸𝓭𝓲𝓷𝓰.<br>
+  𝓓𝓸 𝓷𝓸𝓽 𝓼𝓹𝓪𝓶 𝓪𝓷𝓭 𝓼𝓽𝓻𝓪𝓲𝓰𝓱𝓽 𝓽𝓸 𝓽𝓱𝓮 𝓹𝓸𝓲𝓷𝓽.
+</p>
+
+<div align="right">
+  <a href="https://t.me/Yoga_CIC">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/Telegram_logo.svg" alt="telegram" width="49" height="49"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zyxdevs">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/linkedin.svg" alt="linkedin" width="51" height="51"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/659718688219332639">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="50.7" height="50.7" alt="discord"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yoga@isekai.eu.org">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/>
+  </a>
+</div>
+
+<br>
+<h2 align="center"><b>👋 またね 👋</b></h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/hi_goodbye.gif"/>
 </div>
