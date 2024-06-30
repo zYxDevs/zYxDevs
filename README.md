@@ -46,6 +46,7 @@
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/466963.png" alt="twitter" width="20" height="20"/>
   </a>
 </div>
+<br>
 
 <br>
 <h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
@@ -92,6 +93,7 @@
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
+<br>
 
 <br>
 <h2 align="center">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h2>
@@ -120,6 +122,7 @@
     <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/>
   </a>
 </div>
+<br>
 
 <br>
 <h2 align="center"><b>👋 またね 👋</b></h2>
