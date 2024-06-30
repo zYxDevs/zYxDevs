@@ -105,9 +105,9 @@
     </div>
     <br>
     <div>
-      <!-- favorites_characters starts -->
+      <!-- favorites_anime starts -->
       testo anime
-      <!-- favorites_characters ends -->
+      <!-- favorites_anime ends -->
     </div>
     <br>
     <h2 align="center">📖 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓮𝓼 𝓶𝓪𝓷𝓰𝓪 📖</h2>
@@ -116,9 +116,9 @@
     </div>
     <br>
     <div>
-      <!-- favorites_characters starts -->
+      <!-- favorites_manga starts -->
       testo manga
-      <!-- favorites_characters ends -->
+      <!-- favorites_manga ends -->
     </div>
   </center>
 </body>
