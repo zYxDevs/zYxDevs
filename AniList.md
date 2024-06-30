@@ -35,6 +35,31 @@
 <summary>:book: List Favorites Manga</summary>
   
 <!-- favorites_manga starts -->
+* [Na Honjaman Level Up](https://anilist.co/manga/105398)
+* [Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life](https://anilist.co/manga/107120)
+* [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305)
+* [Overflow](https://anilist.co/manga/114608)
+* [Tensei Shitara Slime Datta Ken](https://anilist.co/manga/86355)
+* [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780)
+* [Isekai NTR: Nakama ni Barezu ni Harem wo](https://anilist.co/manga/115043)
+* [Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou](https://anilist.co/manga/115042)
+* [Gedou Tenisha no Harem Dungeon Seisakuki](https://anilist.co/manga/140244)
+* [Gedou Tenisha no Harem Dungeon Seisakuki](https://anilist.co/manga/140243)
+* [Valhalla Otintin Kan](https://anilist.co/manga/123003)
+* [Seiken Gakuin no Maken Tsukai](https://anilist.co/manga/116722)
+* [NieR:Automata: Nagai Hanashi](https://anilist.co/manga/101853)
+* [NieR:Automata: Shounen Yoruha](https://anilist.co/manga/126597)
+* [Yorha: Shinjuwan Kouka Sakusen Kiroku](https://anilist.co/manga/127809)
+* [Koroshi Ai](https://anilist.co/manga/99435)
+* [Souda, Baikoku shiyou: Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/manga/124374)
+* [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://anilist.co/manga/107604)
+* [Isekai Nonbiri Nouka](https://anilist.co/manga/100456)
+* [Isekai Nonbiri Nouka](https://anilist.co/manga/100461)
+* [Yozakura-san Chi no Daisakusen](https://anilist.co/manga/111149)
+* [Kichiku Eiyuu](https://anilist.co/manga/139415)
+* [Wo Laopo Shi Mowang Daren](https://anilist.co/manga/107966)
+* [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736)
+* [Kimi wa Meido-sama.](https://anilist.co/manga/121700)
 <!-- favorites_manga ends -->
 
 </details>
