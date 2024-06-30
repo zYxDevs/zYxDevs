@@ -82,13 +82,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch <a href='https://anilist.co/anime/178789'>Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season</a> (02:14 01/07/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/123383'>White Blue</a> (13:29 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/6987'>Aki-Sora</a> (13:29 30/06/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/119254'>Kanojo ga Yatsu ni Dakareta hi</a> (13:28 30/06/2024)<br>
--   📖 Completed <a href='https://anilist.co/manga/116809'>Happy Harem Making with the Mightiest Orc!</a> (11:36 30/06/2024)<br>
--   📖 Plans to read <a href='https://anilist.co/manga/164895'>Shibou Taijou Suru Hazu no "Setteijou Saikyou Chara" ni Tensei Shita Ore wa, Subete no Shibou Flag wo Hataki Oru Koto ni Shita</a> (11:35 30/06/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/162804'>Alya Sometimes Hides Her Feelings in Russian</a> (11:33 30/06/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/153406'>Tower of God Season 2</a> (02:35 01/07/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/115230'>Tower of God</a> (02:35 01/07/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/20931'>Death Parade</a> (02:34 01/07/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/117989'>Mother of the Goddess’ Dormitory</a> (02:33 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/166477'>The Café Terrace and Its Goddesses Season 2</a> (02:33 01/07/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/154412'>The Café Terrace and Its Goddesses</a> (02:33 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/167420'>NieR:Automata Ver1.1a Cour 2</a> (02:32 01/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
