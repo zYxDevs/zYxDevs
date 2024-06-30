@@ -73,16 +73,16 @@ class Biograph():
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed <a href='https://anilist.co/anime/166873'>Mushoku Tensei: Jobless Reincarnation Season 2 Part 2</a> (02:25 27/06/2024)
--   📺 Completed <a href='https://anilist.co/anime/146065'>Mushoku Tensei: Jobless Reincarnation Season 2</a> (02:25 27/06/2024)
--   📺 Completed <a href='https://anilist.co/anime/108465'>Mushoku Tensei: Jobless Reincarnation</a> (02:24 27/06/2024)
--   📺 Completed <a href='https://anilist.co/anime/153499'>Shen Yin Wangzuo 2</a> (20:47 23/05/2024)
--   📺 Completed <a href='https://anilist.co/anime/146409'>Throne of Seal</a> (20:47 23/05/2024)
--   📖 Plans to read <a href='https://anilist.co/manga/121700'>Kimi wa Meido-sama.</a> (09:03 19/04/2024)
--   📺 Plans to watch <a href='https://anilist.co/anime/172190'>Kimi wa Meido-sama.</a> (08:54 19/04/2024)
--   📺 Plans to watch <a href='https://anilist.co/anime/156023'>An Archdemon's Dilemma: How to Love Your Elf Bride</a> (19:38 13/03/2024)
--   📺 Completed <a href='https://anilist.co/anime/20910'>SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist</a> (13:09 06/01/2024)
--   📺 Plans to watch <a href='https://anilist.co/anime/158559'>2.5 Dimensional Seduction</a> (20:32 18/12/2023)
+-   📺 Completed <a href='https://anilist.co/anime/166873'>Mushoku Tensei: Jobless Reincarnation Season 2 Part 2</a> (02:25 27/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/146065'>Mushoku Tensei: Jobless Reincarnation Season 2</a> (02:25 27/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/108465'>Mushoku Tensei: Jobless Reincarnation</a> (02:24 27/06/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/153499'>Shen Yin Wangzuo 2</a> (20:47 23/05/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/146409'>Throne of Seal</a> (20:47 23/05/2024)<br>
+-   📖 Plans to read <a href='https://anilist.co/manga/121700'>Kimi wa Meido-sama.</a> (09:03 19/04/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/172190'>Kimi wa Meido-sama.</a> (08:54 19/04/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/156023'>An Archdemon's Dilemma: How to Love Your Elf Bride</a> (19:38 13/03/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/20910'>SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist</a> (13:09 06/01/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/158559'>2.5 Dimensional Seduction</a> (20:32 18/12/2023)<br>
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
