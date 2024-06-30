@@ -1,4 +1,4 @@
-name: Synchronize favorites
+name: Sync AniList favorites
 on:
   schedule:
     # Runs every hour
@@ -26,12 +26,12 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install -r ./scripts/requirements.txt
-      - name: Update README
+      - name: Update AniList
         env:
           ANILIST_TOKEN: ${{ secrets.ANILIST_TOKEN }}
         run: |-
           python ./scripts/anilist_favorites.py
-          cat README.md
+          cat AniList.md
       - name: Commit and push if changed
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
