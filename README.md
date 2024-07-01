@@ -86,13 +86,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed <a href='https://anilist.co/anime/1735'>Naruto: Shippuden</a> (18:46 01/07/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/21579'>Boruto: Naruto the Movie - The Day Naruto Became Hokage</a> (18:46 01/07/2024)<br>
+-   📺 Completed <a href='https://anilist.co/anime/21220'>Boruto: Naruto the Movie</a> (18:46 01/07/2024)<br>
 -   📺 Plans to watch <a href='https://anilist.co/anime/175868'>Tensui no Sakuna-hime</a> (11:38 01/07/2024)<br>
 -   📺 Plans to watch <a href='https://anilist.co/anime/168345'>Dungeon People</a> (11:38 01/07/2024)<br>
 -   📺 Plans to watch <a href='https://anilist.co/anime/163077'>Quality Assurance in Another World</a> (11:37 01/07/2024)<br>
 -   📺 Plans to watch <a href='https://anilist.co/anime/173694'>Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made</a> (11:37 01/07/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/163623'>Pseudo Harem</a> (11:37 01/07/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/167144'>Love Is Indivisible by Twins</a> (11:36 01/07/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/163292'>The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible</a> (11:36 01/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
