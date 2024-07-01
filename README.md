@@ -86,13 +86,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch <a href='https://anilist.co/anime/153406'>Tower of God Season 2</a> (02:35 01/07/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/115230'>Tower of God</a> (02:35 01/07/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/20931'>Death Parade</a> (02:34 01/07/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/117989'>Mother of the Goddess’ Dormitory</a> (02:33 01/07/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/166477'>The Café Terrace and Its Goddesses Season 2</a> (02:33 01/07/2024)<br>
--   📺 Completed <a href='https://anilist.co/anime/154412'>The Café Terrace and Its Goddesses</a> (02:33 01/07/2024)<br>
--   📺 Plans to watch <a href='https://anilist.co/anime/167420'>NieR:Automata Ver1.1a Cour 2</a> (02:32 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/175868'>Tensui no Sakuna-hime</a> (11:38 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/168345'>Dungeon People</a> (11:38 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/163077'>Quality Assurance in Another World</a> (11:37 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/173694'>Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made</a> (11:37 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/163623'>Pseudo Harem</a> (11:37 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/167144'>Love Is Indivisible by Twins</a> (11:36 01/07/2024)<br>
+-   📺 Plans to watch <a href='https://anilist.co/anime/163292'>The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible</a> (11:36 01/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
