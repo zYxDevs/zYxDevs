@@ -79,7 +79,7 @@
 <br>
 <h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="270" height="250"/>
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="300" height="250"/>
 </div>
 
 <br>
