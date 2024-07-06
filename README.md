@@ -86,13 +86,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
-- 📺 Completed <a href='https://anilist.co/anime/98491'>In Another World With My Smartphone</a> (03:17 03/07/2024)<br>
-- 📖 Plans to read <a href='https://anilist.co/manga/86093'>The Magical Girl and The Evil Lieutenant Used to Be Archenemies</a> (01:39 03/07/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/1735'>Naruto: Shippuden</a> (18:46 01/07/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/21579'>Boruto: Naruto the Movie - The Day Naruto Became Hokage</a> (18:46 01/07/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/21220'>Boruto: Naruto the Movie</a> (18:46 01/07/2024)<br>
-- 📺 Plans to watch <a href='https://anilist.co/anime/175868'>Sakuna: Of Rice and Ruin</a> (11:38 01/07/2024)<br>
-- 📺 Plans to watch <a href='https://anilist.co/anime/168345'>Dungeon People</a> (11:38 01/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/9260'>Kizumonogatari Part 1: Tekketsu</a> (02:25 07/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/21399'>Kizumonogatari Part 2: Nekketsu</a> (02:25 07/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/21400'>Kizumonogatari Part 3: Reiketsu</a> (02:25 07/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/15689'>Nekomonogatari Black</a> (02:25 07/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/5081'>Bakemonogatari</a> (02:25 07/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/11597'>Nisemonogatari</a> (02:24 07/07/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/17074'>Monogatari Series Second Season</a> (02:24 07/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
