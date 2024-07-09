@@ -86,13 +86,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
+- 📺 Plans to watch <a href='https://anilist.co/anime/175052'>Aishang Ta de Liyou Extra</a> (02:32 10/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/9260'>Kizumonogatari Part 1: Tekketsu</a> (02:25 07/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/21399'>Kizumonogatari Part 2: Nekketsu</a> (02:25 07/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/21400'>Kizumonogatari Part 3: Reiketsu</a> (02:25 07/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/15689'>Nekomonogatari Black</a> (02:25 07/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/5081'>Bakemonogatari</a> (02:25 07/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/11597'>Nisemonogatari</a> (02:24 07/07/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/17074'>Monogatari Series Second Season</a> (02:24 07/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
