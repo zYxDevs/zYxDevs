@@ -1,10 +1,5 @@
-<head>
-  <link rel="shortcut icon" type="image/png" href="https://wibu-api.eu.org/static/img/favicon1.png">
-</head>
-
 <h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 zYxDevs</h1>
 
-<br>
 <div align="center">
   <a href="https://github.com/zYxDevs">
     <img src="https://img.anili.st/user/5393450" width="500"/>
