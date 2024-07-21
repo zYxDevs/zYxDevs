@@ -81,13 +81,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
+- 📺 Completed <a href='https://anilist.co/anime/130003'>BOCCHI THE ROCK!</a> (11:14 21/07/2024)<br>
 - 📺 Plans to watch <a href='https://anilist.co/anime/163542'>Spy Classroom Season 2</a> (12:08 15/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/146323'>Spy Classroom</a> (12:08 15/07/2024)<br>
 - 📖 Completed <a href='https://anilist.co/manga/127588'>Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai</a> (18:13 11/07/2024)<br>
 - 📺 Plans to watch <a href='https://anilist.co/anime/177552'>Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai</a> (18:12 11/07/2024)<br>
 - 📺 Plans to watch <a href='https://anilist.co/anime/175052'>Aishang Ta de Liyou Extra</a> (02:32 10/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/9260'>Kizumonogatari Part 1: Tekketsu</a> (02:25 07/07/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/21399'>Kizumonogatari Part 2: Nekketsu</a> (02:25 07/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
