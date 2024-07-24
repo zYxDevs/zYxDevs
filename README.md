@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb"/>
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
     <img src="https://img.shields.io/badge/ubuntu%20-%23323330.svg?&style=for-the-badge&logo=ubuntu"/>
-    <img src="https://img.shields.io/badge/windows%20-%23323330.svg?&style=for-the-badge&logo=windows"/><br><br>
+    <img src="https://img.shields.io/badge/android%20-%23323330.svg?&style=for-the-badge&logo=android"/><br><br>
     𝓘 𝓷𝓮𝓿𝓮𝓻 𝓼𝓽𝓾𝓭𝓲𝓮𝓭 𝓯𝓸𝓻 𝓪 𝓹𝓪𝓻𝓽𝓲𝓬𝓾𝓵𝓪𝓻 𝓶𝓪𝓳𝓸𝓻, 𝓫𝓾𝓽 𝓘 𝓵𝓲𝓴𝓮 𝓬𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓲𝓷𝓰 𝓽𝓱𝓲𝓷𝓰𝓼.<br>
     𝓣𝓱𝓮 𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓘 𝓱𝓪𝓿𝓮 𝓲𝓼 𝓷𝓸𝓽 𝓶𝓾𝓬𝓱, 𝓪𝓽 𝓵𝓮𝓪𝓼𝓽 𝓮𝓷𝓸𝓾𝓰𝓱 𝓽𝓸 𝓬𝓻𝓮𝓪𝓽𝓮 𝓪 𝓯𝓮𝔀 𝓽𝓱𝓲𝓷𝓰𝓼.<br>
     𝓘 𝓳𝓾𝓼𝓽 𝓱𝓸𝓹𝓮 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 𝔀𝓲𝓵𝓵 𝓾𝓼𝓮𝓯𝓾𝓵 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮.
