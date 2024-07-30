@@ -81,13 +81,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
+- 📺 Completed <a href='https://anilist.co/anime/141896'>My Heroic Husband</a> (13:48 30/07/2024)<br>
 - 📺 Plans to watch <a href='https://anilist.co/anime/162896'>The Elusive Samurai</a> (02:34 29/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/154982'>The Way of the Househusband: Season 2</a> (20:49 25/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/132193'>The Way of the Househusband Part 2</a> (20:49 25/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/125426'>The Way of the Househusband</a> (20:49 25/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/99531'>Devils' Line</a> (20:24 25/07/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/130003'>BOCCHI THE ROCK!</a> (11:14 21/07/2024)<br>
-- 📺 Plans to watch <a href='https://anilist.co/anime/163542'>Spy Classroom Season 2</a> (12:08 15/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
