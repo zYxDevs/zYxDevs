@@ -81,13 +81,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
+- 📖 Plans to read <a href='https://anilist.co/manga/118377'>Vanilla: Jingai x Jingai Yuri Anthology</a> (22:31 01/08/2024)<br>
+- 📖 Plans to read <a href='https://anilist.co/manga/134445'>Surechigai Kyodai Kanjou Yuri Anthology</a> (22:30 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/7088'>Demon King Daimao</a> (10:54 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/112625'>The Disastrous Life of Saiki K.: Reawakened</a> (10:53 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/104580'>The Disastrous Life of Saiki K. Season 3</a> (10:53 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/98034'>The Disastrous Life of Saiki K. Season 2</a> (10:53 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/21804'>The Disastrous Life of Saiki K.</a> (10:53 01/08/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/141896'>My Heroic Husband</a> (13:48 30/07/2024)<br>
-- 📺 Plans to watch <a href='https://anilist.co/anime/162896'>The Elusive Samurai</a> (02:34 29/07/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
