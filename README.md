@@ -81,13 +81,13 @@
 <div align="left">
   <!-- ANILIST_ACTIVITY:start -->
 
+- 📺 Plans to watch <a href='https://anilist.co/anime/154473'>Arifureta: From Commonplace to World's Strongest Season 3</a> (20:58 10/09/2024)<br>
 - 📺 Plans to watch <a href='https://anilist.co/anime/152677'>Tantei wa mou, Shindeiru. Season 2</a> (19:56 02/09/2024)<br>
 - 📺 Plans to watch <a href='https://anilist.co/anime/179878'>COLORFUL STAGE! The Movie: A Miku Who Can't Sing</a> (17:01 13/08/2024)<br>
 - 📖 Plans to read <a href='https://anilist.co/manga/118377'>Vanilla: Jingai x Jingai Yuri Anthology</a> (22:31 01/08/2024)<br>
 - 📖 Plans to read <a href='https://anilist.co/manga/134445'>Surechigai Kyodai Kanjou Yuri Anthology</a> (22:30 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/7088'>Demon King Daimao</a> (10:54 01/08/2024)<br>
 - 📺 Completed <a href='https://anilist.co/anime/112625'>The Disastrous Life of Saiki K.: Reawakened</a> (10:53 01/08/2024)<br>
-- 📺 Completed <a href='https://anilist.co/anime/104580'>The Disastrous Life of Saiki K. Season 3</a> (10:53 01/08/2024)<br>
 
   <!-- ANILIST_ACTIVITY:end -->
 </div>
